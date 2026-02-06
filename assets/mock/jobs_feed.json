@@ -1,0 +1,90 @@
+[
+    {
+        "id": "ssc-cgl-2026",
+        "title": "SSC CGL 2026 - Combined Graduate Level Examination",
+        "organization": "Staff Selection Commission",
+        "deadline": "2026-03-15",
+        "apply_url": "https://ssc.nic.in/",
+        "notification_url": "https://ssc.nic.in/notice/notice_pdf/Notice_CGL_2026.pdf",
+        "category": "SSC",
+        "vacancies": 17000,
+        "eligibility": "Graduate in any discipline"
+    },
+    {
+        "id": "upsc-cse-2026",
+        "title": "UPSC Civil Services Examination 2026",
+        "organization": "Union Public Service Commission",
+        "deadline": "2026-02-28",
+        "apply_url": "https://upsc.gov.in/",
+        "notification_url": "https://upsc.gov.in/exams/active-exams",
+        "category": "UPSC",
+        "vacancies": 1000,
+        "eligibility": "Graduate, Age 21-32"
+    },
+    {
+        "id": "ibps-po-2026",
+        "title": "IBPS PO 2026 - Probationary Officer Recruitment",
+        "organization": "Institute of Banking Personnel Selection",
+        "deadline": "2026-04-20",
+        "apply_url": "https://ibps.in/",
+        "notification_url": "https://ibps.in/crp-po-mt-xv/",
+        "category": "Banking",
+        "vacancies": 4000,
+        "eligibility": "Graduate, Age 20-30"
+    },
+    {
+        "id": "rrb-ntpc-2026",
+        "title": "RRB NTPC 2026 - Non-Technical Popular Categories",
+        "organization": "Railway Recruitment Boards",
+        "deadline": "2026-05-10",
+        "apply_url": "https://www.rrbcdg.gov.in/",
+        "notification_url": "https://www.rrbcdg.gov.in/ntpc.jsp",
+        "category": "Railway",
+        "vacancies": 35000,
+        "eligibility": "12th Pass / Graduate (as per post)"
+    },
+    {
+        "id": "sbi-clerk-2026",
+        "title": "SBI Clerk 2026 - Junior Associate Recruitment",
+        "organization": "State Bank of India",
+        "deadline": "2026-03-25",
+        "apply_url": "https://sbi.co.in/careers",
+        "notification_url": "https://sbi.co.in/web/careers",
+        "category": "Banking",
+        "vacancies": 8000,
+        "eligibility": "Graduate, Age 20-28"
+    },
+    {
+        "id": "ssc-chsl-2026",
+        "title": "SSC CHSL 2026 - Combined Higher Secondary Level",
+        "organization": "Staff Selection Commission",
+        "deadline": "2026-04-05",
+        "apply_url": "https://ssc.nic.in/",
+        "notification_url": "https://ssc.nic.in/notice/notice_pdf/Notice_CHSL_2026.pdf",
+        "category": "SSC",
+        "vacancies": 6000,
+        "eligibility": "12th Pass"
+    },
+    {
+        "id": "uppsc-pcs-2026",
+        "title": "UPPSC PCS 2026 - Provincial Civil Service",
+        "organization": "Uttar Pradesh Public Service Commission",
+        "deadline": "2026-02-20",
+        "apply_url": "https://uppsc.up.nic.in/",
+        "notification_url": "https://uppsc.up.nic.in/Notifications.aspx",
+        "category": "State PSC",
+        "vacancies": 500,
+        "eligibility": "Graduate, Age 21-40"
+    },
+    {
+        "id": "lic-aao-2026",
+        "title": "LIC AAO 2026 - Assistant Administrative Officer",
+        "organization": "Life Insurance Corporation of India",
+        "deadline": "2026-03-30",
+        "apply_url": "https://licindia.in/",
+        "notification_url": "https://licindia.in/Bottom-Links/Careers",
+        "category": "Insurance",
+        "vacancies": 300,
+        "eligibility": "Graduate, Age 21-30"
+    }
+]

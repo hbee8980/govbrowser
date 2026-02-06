@@ -1,0 +1,55 @@
+name: govbrowser
+description: "The Specialized Browser for Indian Government Job Aspirants - The Browser that knows you."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management - Riverpod (without code generation for compatibility)
+  flutter_riverpod: ^2.6.1
+  
+  # Local Database - Hive (manual adapters, no code gen)
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # Navigation
+  go_router: ^14.8.1
+  
+  # WebView - Must support file uploads (not available on web, will use fallback)
+  flutter_inappwebview: ^6.1.5
+  
+  # Image Processing
+  flutter_image_compress: ^2.3.0
+  
+  # UI Components
+  google_fonts: ^6.2.1
+  phosphor_flutter: ^2.1.0
+  
+  # Utilities
+  path_provider: ^2.1.5
+  share_plus: ^10.1.4
+  file_picker: ^8.1.7
+  permission_handler: ^11.3.1
+  fluttertoast: ^8.2.10
+  intl: ^0.19.0
+  path: ^1.9.1
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/mock/
+    - scraper/jobs.json
