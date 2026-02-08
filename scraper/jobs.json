@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-02-07T04:58:15.140709",
+  "last_updated": "2026-02-08T05:42:54.183110",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UP Police Computer Operator 2023 Final Result",
+      "url": "https://www.sarkariresult.com/2024/up-police-computer-programmer/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "07/01/2024",
+        "last_date": "31/01/2024",
+        "admit_card": "21/01/2026"
+      },
+      "fees": {
+        "general": 400,
+        "obc": 400,
+        "sc_st": 400,
+        "ews": 400,
+        "female": 400
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 985
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma in Computer Application / IT"
+      ],
+      "scraped_at": "2026-02-08T05:42:35.428252"
+    },
+    {
+      "title": "RSSB NHM Contractual Various Post Result 2026",
+      "url": "https://www.sarkariresult.com/rpsc/rssb-nhm-01-2025/",
+      "type": "Result",
+      "category": "Rajasthan",
+      "dates": {
+        "application_begin": "02/04/2025",
+        "last_date": "01/05/2025",
+        "admit_card": "30/05/2025"
+      },
+      "fees": {
+        "general": 600,
+        "obc": 600,
+        "sc_st": 400
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 13398
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma from Any Recognized Institute"
+      ],
+      "scraped_at": "2026-02-08T05:42:36.940837"
+    },
     {
       "title": "RSSB 4th Class Employee 2024 Revised Result with Cutoff",
       "url": "https://www.sarkariresult.com/rpsc/rssb-fourth-class-advt-19-2024/",
@@ -26,7 +78,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:57:54.092777"
+      "scraped_at": "2026-02-08T05:42:37.962902"
     },
     {
       "title": "Oriental Insurance OICL AO Result 2026",
@@ -40,7 +92,7 @@
       "eligibility": [
         "itions and customer focus, Orient"
       ],
-      "scraped_at": "2026-02-07T04:57:56.283607"
+      "scraped_at": "2026-02-08T05:42:39.686279"
     },
     {
       "title": "UPPSC LT Grade Assistant Teacher Result 2026",
@@ -64,7 +116,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:57:57.786712"
+      "scraped_at": "2026-02-08T05:42:40.711397"
     },
     {
       "title": "MPESB Excise Constable 2025 Result",
@@ -89,7 +141,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:57:58.898645"
+      "scraped_at": "2026-02-08T05:42:41.721843"
     },
     {
       "title": "SSC Selection Post 13th Result 2026",
@@ -115,10 +167,10 @@
         "total": 2423
       },
       "eligibility": [
-        "Graduate Level, How to Apply and More SSC GOV IN",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Graduate Level, How to Apply and More SSC GOV IN"
       ],
-      "scraped_at": "2026-02-07T04:58:00.445675"
+      "scraped_at": "2026-02-08T05:42:43.195933"
     },
     {
       "title": "RPSC RAS 2023 Final Result",
@@ -143,7 +195,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:01.965905"
+      "scraped_at": "2026-02-08T05:42:44.779902"
     },
     {
       "title": "SBI Clerk  2024 Third Waiting List",
@@ -167,7 +219,7 @@
       "eligibility": [
         "iting List 2026 for 13735 Post</t"
       ],
-      "scraped_at": "2026-02-07T04:58:03.689838"
+      "scraped_at": "2026-02-08T05:42:46.531716"
     },
     {
       "title": "UPPSC Assistant Registrar 2024 Result",
@@ -192,7 +244,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:04.891828"
+      "scraped_at": "2026-02-08T05:42:47.309289"
     },
     {
       "title": "UPSC Civil Services 2024 Reserve List Marks",
@@ -217,7 +269,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:06.596063"
+      "scraped_at": "2026-02-08T05:42:49.148766"
     },
     {
       "title": "NTA UGC NET December 2025 Result",
@@ -240,7 +292,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:07.705894"
+      "scraped_at": "2026-02-08T05:42:50.163680"
     },
     {
       "title": "UPPSC 2024 Mains Result",
@@ -262,10 +314,10 @@
         "total": 220
       },
       "eligibility": [
-        "Graduate Diploma <b>OR</b> Post graduate Degree in Law / La",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma in Computer and 1 Year Experi"
       ],
-      "scraped_at": "2026-02-07T04:58:08.744599"
+      "scraped_at": "2026-02-08T05:42:51.176021"
     },
     {
       "title": "LIC AAO Mains Result 2026",
@@ -291,7 +343,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:10.259336"
+      "scraped_at": "2026-02-08T05:42:52.661997"
     },
     {
       "title": "Bihar Police BPSSC Range Officer 2025 Final Result",
@@ -313,46 +365,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-07T04:58:11.314046"
-    },
-    {
-      "title": "Delhi DSSSB TGT Special Education 2022 Result",
-      "url": "https://www.sarkariresult.com/delhi/dsssb-latest-result/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-07T04:58:13.143044"
-    },
-    {
-      "title": "Nainital Bank CSA Clerk, PO, SO Result 2026",
-      "url": "https://www.sarkariresult.com/bank/nainital-bank-clerk-dec24/",
-      "type": "Result",
-      "category": "Banking",
-      "dates": {
-        "application_begin": "04/12/2024",
-        "last_date": "22/12/2024",
-        "admit_card": "04/01/2025"
-      },
-      "fees": {
-        "general": 1000,
-        "obc": 1000,
-        "sc_st": 1000,
-        "ews": 1000
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 25
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-07T04:58:14.640574"
+      "scraped_at": "2026-02-08T05:42:53.682950"
     }
   ]
 }
