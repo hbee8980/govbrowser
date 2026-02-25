@@ -1,8 +1,133 @@
 {
-  "last_updated": "2026-02-22T05:15:52.848501",
+  "last_updated": "2026-02-25T05:39:45.360200",
   "total_jobs": 14,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UPSC Forest Services IFS 2025 Mains Result",
+      "url": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-2025/",
+      "type": "Result",
+      "category": "UPSC",
+      "dates": {
+        "application_begin": "22/01/2025",
+        "last_date": "21/02/2025",
+        "exam_date": "25/05/2025",
+        "admit_card": "13/05/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 1129
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-25T05:38:54.868256"
+    },
+    {
+      "title": "UPPSC LT Grade Assistant Teacher Result 2026",
+      "url": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
+      "type": "Result",
+      "category": "UP",
+      "dates": {
+        "application_begin": "28/07/2025",
+        "last_date": "28/08/2025"
+      },
+      "fees": {
+        "general": 125,
+        "obc": 125,
+        "sc_st": 65,
+        "ews": 125
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 7466
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-25T05:38:55.806359"
+    },
+    {
+      "title": "RPSC Assistant Statistical Officer ASO 2024 Result",
+      "url": "https://www.sarkariresult.com/rpsc/rpsc-aso-09-2024/",
+      "type": "Result",
+      "category": "Rajasthan",
+      "dates": {
+        "application_begin": "12/08/2024",
+        "last_date": "10/09/2024",
+        "exam_date": "12/10/2025"
+      },
+      "fees": {
+        "general": 600,
+        "obc": 400,
+        "sc_st": 400
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 43
+      },
+      "eligibility": [
+        "Diploma in Statistics  <strong>And</s",
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-25T05:38:56.764931"
+    },
+    {
+      "title": "RPF Constable 2024 Zone Wise Result, Attestation Form",
+      "url": "https://www.sarkariresult.com/railway/rpf-constable-si-cen-01-02-2024/",
+      "type": "Result",
+      "category": "Police",
+      "dates": {
+        "application_begin": "15/04/2024",
+        "last_date": "14/05/2024",
+        "exam_date": "22/06/2025",
+        "admit_card": "07/06/2025"
+      },
+      "fees": {
+        "general": 500,
+        "obc": 500,
+        "sc_st": 250,
+        "ews": 500,
+        "female": 250
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 4660
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-25T05:38:58.326275"
+    },
+    {
+      "title": "IBPS RRB 14th Final Result 2026",
+      "url": "https://www.sarkariresult.com/bank/ibps-rrb-14th-2025/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "01/09/2025",
+        "last_date": "28/09/2025",
+        "admit_card": "23/01/2026"
+      },
+      "fees": {
+        "general": 850,
+        "obc": 850,
+        "sc_st": 175
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 12916
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-25T05:38:59.761498"
+    },
     {
       "title": "RBI Officer Grade B Phase II Result 2026",
       "url": "https://www.sarkariresult.com/bank/rbi-officer-gradeb-july24/",
@@ -27,31 +152,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:03.002907"
-    },
-    {
-      "title": "UPPSC LT Grade Assistant Teacher Result 2026",
-      "url": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
-      "type": "Result",
-      "category": "UP",
-      "dates": {
-        "application_begin": "28/07/2025",
-        "last_date": "28/08/2025"
-      },
-      "fees": {
-        "general": 125,
-        "obc": 125,
-        "sc_st": 65,
-        "ews": 125
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 7466
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-22T05:15:03.961621"
+      "scraped_at": "2026-02-25T05:39:00.712754"
     },
     {
       "title": "NTA CMAT 2026 Result, Score Card",
@@ -75,7 +176,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:05.261579"
+      "scraped_at": "2026-02-25T05:39:01.685721"
     },
     {
       "title": "Nainital Bank PO Final Result 2026",
@@ -94,10 +195,10 @@
         "total": 185
       },
       "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "Diploma / MBA / CFA / CA / Engineerin"
+        "Diploma / MBA / CFA / CA / Engineerin",
+        "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:06.597540"
+      "scraped_at": "2026-02-25T05:39:03.015858"
     },
     {
       "title": "DFCCIL MTS & Other Post Stage II Exam Result with Marks 2026",
@@ -120,7 +221,7 @@
         "Diploma in Civil Engg",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:08.111196"
+      "scraped_at": "2026-02-25T05:39:04.550136"
     },
     {
       "title": "Bihar Police BPSSC SI Prohibition 2025 Marks",
@@ -144,7 +245,7 @@
       "eligibility": [
         "ition Marks All Candidate 2026</t"
       ],
-      "scraped_at": "2026-02-22T05:15:09.444663"
+      "scraped_at": "2026-02-25T05:39:05.983261"
     },
     {
       "title": "MPESB Subedar Stenographer, ASI Result 2026",
@@ -169,7 +270,7 @@
         "Diploma / Certificate Exam Passed 100",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:43.890658"
+      "scraped_at": "2026-02-25T05:39:40.580446"
     },
     {
       "title": "SSC GD Constable Exam 2025 Marks",
@@ -197,7 +298,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:45.368923"
+      "scraped_at": "2026-02-25T05:39:42.116114"
     },
     {
       "title": "NTA JEEMAIN Session I Result 2026",
@@ -221,34 +322,7 @@
         "B.Tech / B",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:46.716156"
-    },
-    {
-      "title": "Railway RPF Constable 2024 Final Result with Cutoff",
-      "url": "https://www.sarkariresult.com/railway/rpf-constable-si-cen-01-02-2024/",
-      "type": "Result",
-      "category": "Railway",
-      "dates": {
-        "application_begin": "15/04/2024",
-        "last_date": "14/05/2024",
-        "exam_date": "22/06/2025",
-        "admit_card": "07/06/2025"
-      },
-      "fees": {
-        "general": 500,
-        "obc": 500,
-        "sc_st": 250,
-        "ews": 500,
-        "female": 250
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 4660
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-22T05:15:47.673616"
+      "scraped_at": "2026-02-25T05:39:43.454123"
     },
     {
       "title": "RPSC Sub Inspector SI Telecom 2024 Result",
@@ -270,87 +344,10 @@
         "total": 98
       },
       "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "B.Tech Degree in Telecommunications"
-      ],
-      "scraped_at": "2026-02-22T05:15:48.691897"
-    },
-    {
-      "title": "UP Police Computer Operator 2023 Final Result",
-      "url": "https://www.sarkariresult.com/2024/up-police-computer-programmer/",
-      "type": "Result",
-      "category": "Banking",
-      "dates": {
-        "application_begin": "07/01/2024",
-        "last_date": "31/01/2024",
-        "admit_card": "21/01/2026"
-      },
-      "fees": {
-        "general": 400,
-        "obc": 400,
-        "sc_st": 400,
-        "ews": 400,
-        "female": 400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 985
-      },
-      "eligibility": [
-        "Diploma in Computer Application / IT",
+        "B.Tech Degree in Telecommunications",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-22T05:15:49.710741"
-    },
-    {
-      "title": "RSSB NHM Contractual Various Post Result 2026",
-      "url": "https://www.sarkariresult.com/rpsc/rssb-nhm-01-2025/",
-      "type": "Result",
-      "category": "Rajasthan",
-      "dates": {
-        "application_begin": "02/04/2025",
-        "last_date": "01/05/2025",
-        "admit_card": "30/05/2025"
-      },
-      "fees": {
-        "general": 600,
-        "obc": 600,
-        "sc_st": 400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 13398
-      },
-      "eligibility": [
-        "Diploma from Any Recognized Institute",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-22T05:15:51.047465"
-    },
-    {
-      "title": "RSSB 4th Class Employee 2024 Revised Result with Cutoff",
-      "url": "https://www.sarkariresult.com/rpsc/rssb-fourth-class-advt-19-2024/",
-      "type": "Result",
-      "category": "Rajasthan",
-      "dates": {
-        "application_begin": "21/03/2025",
-        "last_date": "19/04/2025",
-        "exam_date": "05/02/2026",
-        "admit_card": "05/02/2026"
-      },
-      "fees": {
-        "general": 600,
-        "obc": 600,
-        "sc_st": 400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 53749
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-22T05:15:52.348347"
+      "scraped_at": "2026-02-25T05:39:44.860044"
     }
   ]
 }
