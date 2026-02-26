@@ -1,8 +1,130 @@
 {
-  "last_updated": "2026-02-25T05:39:45.360200",
-  "total_jobs": 14,
+  "last_updated": "2026-02-26T05:23:47.067207",
+  "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UP BTC DELED 2018,2021,2023 First and Third Semester Result",
+      "url": "https://www.sarkariresult.com/2021/up-btc-deled-result/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-26T05:23:28.766115"
+    },
+    {
+      "title": "UP Police SI / ASI 2023 Result / Candidate List for Stenographer Test",
+      "url": "https://www.sarkariresult.com/2024/up-police-si-asi-jan24/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "07/01/2024",
+        "last_date": "31/01/2024",
+        "admit_card": "15/02/2026"
+      },
+      "fees": {
+        "general": 400,
+        "obc": 400,
+        "sc_st": 400,
+        "ews": 400,
+        "female": 400
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 921
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-26T05:23:30.260533"
+    },
+    {
+      "title": "UPSSSC Junior Assistant 2022 Typing Test Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-junior-asst-09-2022/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "19/12/2022",
+        "last_date": "08/01/2023",
+        "exam_date": "19/01/2025",
+        "admit_card": "16/01/2025"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 62
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-26T05:23:31.638517"
+    },
+    {
+      "title": "UPSSSC Assistant Store Keeper, AG III 2024 Typing Test Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-ask-02-exam-2024/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "15/02/2024",
+        "last_date": "06/03/2024",
+        "exam_date": "13/04/2025",
+        "admit_card": "09/04/2025"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 40,
+        "as_on": "01/07/2024"
+      },
+      "vacancies": {
+        "total": 200
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-26T05:23:32.599663"
+    },
+    {
+      "title": "LIC AAO / Assistant Engineer Phase II Mains Result 2026",
+      "url": "https://www.sarkariresult.com/bank/lic-aao-ae-2025/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "16/08/2025",
+        "last_date": "08/09/2025",
+        "exam_date": "03/10/2025",
+        "admit_card": "25/09/2025"
+      },
+      "fees": {
+        "general": 700,
+        "obc": 700,
+        "sc_st": 85,
+        "ews": 700
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 841
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-02-26T05:23:33.521988"
+    },
     {
       "title": "UPSC Forest Services IFS 2025 Mains Result",
       "url": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-2025/",
@@ -26,7 +148,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:38:54.868256"
+      "scraped_at": "2026-02-26T05:23:34.841564"
     },
     {
       "title": "UPPSC LT Grade Assistant Teacher Result 2026",
@@ -50,7 +172,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:38:55.806359"
+      "scraped_at": "2026-02-26T05:23:36.124982"
     },
     {
       "title": "RPSC Assistant Statistical Officer ASO 2024 Result",
@@ -75,7 +197,7 @@
         "Diploma in Statistics  <strong>And</s",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:38:56.764931"
+      "scraped_at": "2026-02-26T05:23:37.452614"
     },
     {
       "title": "RPF Constable 2024 Zone Wise Result, Attestation Form",
@@ -102,7 +224,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:38:58.326275"
+      "scraped_at": "2026-02-26T05:23:38.566414"
     },
     {
       "title": "IBPS RRB 14th Final Result 2026",
@@ -126,7 +248,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:38:59.761498"
+      "scraped_at": "2026-02-26T05:23:39.979696"
     },
     {
       "title": "RBI Officer Grade B Phase II Result 2026",
@@ -152,7 +274,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:39:00.712754"
+      "scraped_at": "2026-02-26T05:23:41.369261"
     },
     {
       "title": "NTA CMAT 2026 Result, Score Card",
@@ -176,7 +298,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:39:01.685721"
+      "scraped_at": "2026-02-26T05:23:42.747958"
     },
     {
       "title": "Nainital Bank PO Final Result 2026",
@@ -198,7 +320,7 @@
         "Diploma / MBA / CFA / CA / Engineerin",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:39:03.015858"
+      "scraped_at": "2026-02-26T05:23:44.143465"
     },
     {
       "title": "DFCCIL MTS & Other Post Stage II Exam Result with Marks 2026",
@@ -207,7 +329,8 @@
       "category": "Central Govt",
       "dates": {
         "application_begin": "18/01/2025",
-        "last_date": "22/03/2025"
+        "last_date": "22/03/2025",
+        "admit_card": "25/02/2026"
       },
       "fees": {
         "obc": 1000,
@@ -221,7 +344,7 @@
         "Diploma in Civil Engg",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-25T05:39:04.550136"
+      "scraped_at": "2026-02-26T05:23:45.617048"
     },
     {
       "title": "Bihar Police BPSSC SI Prohibition 2025 Marks",
@@ -245,109 +368,7 @@
       "eligibility": [
         "ition Marks All Candidate 2026</t"
       ],
-      "scraped_at": "2026-02-25T05:39:05.983261"
-    },
-    {
-      "title": "MPESB Subedar Stenographer, ASI Result 2026",
-      "url": "https://www.sarkariresult.com/mp/mpesb-subedar-steno-asi-oct25/",
-      "type": "Result",
-      "category": "MP",
-      "dates": {
-        "application_begin": "03/10/2025",
-        "last_date": "17/10/2025",
-        "admit_card": "10/12/2025"
-      },
-      "fees": {
-        "general": 560,
-        "obc": 310,
-        "sc_st": 310
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 500
-      },
-      "eligibility": [
-        "Diploma / Certificate Exam Passed 100",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-25T05:39:40.580446"
-    },
-    {
-      "title": "SSC GD Constable Exam 2025 Marks",
-      "url": "https://www.sarkariresult.com/ssc/ssc-gd-constable-2024/",
-      "type": "Recruitment",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "05/09/2024",
-        "last_date": "15/10/2024",
-        "admit_card": "17/02/2026"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 23,
-        "as_on": "01/01/2025"
-      },
-      "vacancies": {
-        "total": 53690
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-25T05:39:42.116114"
-    },
-    {
-      "title": "NTA JEEMAIN Session I Result 2026",
-      "url": "https://www.sarkariresult.com/2026/nta-jeemain-session1/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "31/10/2025",
-        "last_date": "27/02/2025"
-      },
-      "fees": {
-        "general": 1000,
-        "obc": 900,
-        "sc_st": 500,
-        "ews": 2000,
-        "female": 800
-      },
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "B.Tech / B",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-25T05:39:43.454123"
-    },
-    {
-      "title": "RPSC Sub Inspector SI Telecom 2024 Result",
-      "url": "https://www.sarkariresult.com/rpsc/rpsc-si-telecom-20-2024/",
-      "type": "Result",
-      "category": "Rajasthan",
-      "dates": {
-        "application_begin": "28/11/2024",
-        "last_date": "27/12/2024",
-        "exam_date": "09/11/2025"
-      },
-      "fees": {
-        "general": 600,
-        "obc": 400,
-        "sc_st": 400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 98
-      },
-      "eligibility": [
-        "B.Tech Degree in Telecommunications",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-25T05:39:44.860044"
+      "scraped_at": "2026-02-26T05:23:46.567057"
     }
   ]
 }
