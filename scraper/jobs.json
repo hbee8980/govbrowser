@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-02-28T04:41:41.754868",
+  "last_updated": "2026-03-02T05:09:29.520981",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "CBSE KVS / NVS Teaching & Non Teaching Post Result 2026",
+      "url": "https://www.sarkariresult.com/2025/cbse-kvs-nvs-2025/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "14/11/2025",
+        "last_date": "11/12/2025",
+        "admit_card": "08/01/2026"
+      },
+      "fees": {
+        "general": 2800,
+        "obc": 2800,
+        "ews": 2800
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 15762
+      },
+      "eligibility": [
+        "iti NVS Teaching and Non Teaching"
+      ],
+      "scraped_at": "2026-03-02T05:09:10.881905"
+    },
     {
       "title": "SSC 10+2 CHSL Tier I Result 2026",
       "url": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
@@ -28,7 +52,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:24.203693"
+      "scraped_at": "2026-03-02T05:09:12.456751"
     },
     {
       "title": "MPESB MP Primary Teacher PSTST Result 2026",
@@ -49,10 +73,10 @@
         "total": 10150
       },
       "eligibility": [
-        "Diploma in Elementary Education <stro",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma in Elementary Education <stro"
       ],
-      "scraped_at": "2026-02-28T04:41:25.129646"
+      "scraped_at": "2026-03-02T05:09:13.502861"
     },
     {
       "title": "NTA AISSEE Result / Score Card 2026",
@@ -66,7 +90,7 @@
       "eligibility": [
         "itial-scale=1"
       ],
-      "scraped_at": "2026-02-28T04:41:26.864805"
+      "scraped_at": "2026-03-02T05:09:15.350581"
     },
     {
       "title": "UPSSSC Junior Assistant 2023 Typing Test Result",
@@ -92,7 +116,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:28.260964"
+      "scraped_at": "2026-03-02T05:09:16.886012"
     },
     {
       "title": "UPSSSC Lekhpal Eligibility Result 2026",
@@ -120,7 +144,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:29.176061"
+      "scraped_at": "2026-03-02T05:09:18.412980"
     },
     {
       "title": "UPSC Engineering Services Pre Result 2026",
@@ -144,7 +168,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:30.502821"
+      "scraped_at": "2026-03-02T05:09:19.953938"
     },
     {
       "title": "UP BTC DELED 2018,2021,2023 First and Third Semester Result",
@@ -158,7 +182,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:31.840833"
+      "scraped_at": "2026-03-02T05:09:21.481405"
     },
     {
       "title": "UP Police SI / ASI 2023 Result / Candidate List for Stenographer Test",
@@ -184,7 +208,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:33.323016"
+      "scraped_at": "2026-03-02T05:09:22.586373"
     },
     {
       "title": "UPSSSC Junior Assistant 2022 Typing Test Result",
@@ -210,7 +234,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:34.243900"
+      "scraped_at": "2026-03-02T05:09:23.643297"
     },
     {
       "title": "UPSSSC Assistant Store Keeper, AG III 2024 Typing Test Result",
@@ -240,7 +264,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:35.196660"
+      "scraped_at": "2026-03-02T05:09:24.710267"
     },
     {
       "title": "LIC AAO / Assistant Engineer Phase II Mains Result 2026",
@@ -266,7 +290,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:36.504868"
+      "scraped_at": "2026-03-02T05:09:25.757515"
     },
     {
       "title": "UPSC Forest Services IFS 2025 Mains Result",
@@ -291,7 +315,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:37.881760"
+      "scraped_at": "2026-03-02T05:09:26.862150"
     },
     {
       "title": "UPPSC LT Grade Assistant Teacher Result 2026",
@@ -315,7 +339,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-02-28T04:41:38.832530"
+      "scraped_at": "2026-03-02T05:09:27.960904"
     },
     {
       "title": "RPSC Assistant Statistical Officer ASO 2024 Result",
@@ -337,37 +361,10 @@
         "total": 43
       },
       "eligibility": [
-        "Diploma in Statistics  <strong>And</s",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma in Statistics  <strong>And</s"
       ],
-      "scraped_at": "2026-02-28T04:41:40.121886"
-    },
-    {
-      "title": "RPF Constable 2024 Zone Wise Result, Attestation Form",
-      "url": "https://www.sarkariresult.com/railway/rpf-constable-si-cen-01-02-2024/",
-      "type": "Result",
-      "category": "Police",
-      "dates": {
-        "application_begin": "15/04/2024",
-        "last_date": "14/05/2024",
-        "exam_date": "22/06/2025",
-        "admit_card": "07/06/2025"
-      },
-      "fees": {
-        "general": 500,
-        "obc": 500,
-        "sc_st": 250,
-        "ews": 500,
-        "female": 250
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 4660
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-02-28T04:41:41.254712"
+      "scraped_at": "2026-03-02T05:09:29.020811"
     }
   ]
 }
