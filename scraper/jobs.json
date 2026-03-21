@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-03-19T03:24:21.954352",
+  "last_updated": "2026-03-21T03:05:37.253170",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "NTA NIFTEE 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/nta-nift-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "08/12/2025",
+        "last_date": "06/01/2026",
+        "exam_date": "08/02/2026",
+        "admit_card": "17/02/2026"
+      },
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "Graduate Degree in Any Recognized University / Institute in",
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-03-21T03:05:18.958187"
+    },
+    {
+      "title": "SSC 10+2 CHSL 2025 Tier I Marks / Score Card",
+      "url": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
+      "type": "Recruitment",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "23/06/2025",
+        "last_date": "19/07/2025",
+        "exam_date": "12/11/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 27
+      },
+      "vacancies": {
+        "total": 3131
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-03-21T03:05:20.376588"
+    },
+    {
+      "title": "IIT JAM 2026 Result / Score Card",
+      "url": "https://joaps.iitb.ac.in/login",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "ition:relative;width:100%;height:"
+      ],
+      "scraped_at": "2026-03-21T03:05:21.282709"
+    },
+    {
+      "title": "UPPSC LT Grade Assistant Teacher 2025 Result",
+      "url": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
+      "type": "Result",
+      "category": "UP",
+      "dates": {
+        "application_begin": "28/07/2025",
+        "last_date": "28/08/2025"
+      },
+      "fees": {
+        "general": 125,
+        "obc": 125,
+        "sc_st": 65,
+        "ews": 125
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 7466
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-03-21T03:05:22.740500"
+    },
     {
       "title": "GATE 2026 Result with Score Card",
       "url": "https://www.sarkariresult.com/2026/gate-2026/",
@@ -22,10 +107,10 @@
       "age_limit": {},
       "vacancies": {},
       "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "B.Tech / B"
+        "Graduate Aptitude Test in Engineering GATE 2026 Exam Conduc",
+        "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:04.196092"
+      "scraped_at": "2026-03-21T03:05:24.156207"
     },
     {
       "title": "UPSC Civil Services IAS 2024 Reserve List",
@@ -50,7 +135,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:05.168149"
+      "scraped_at": "2026-03-21T03:05:25.809809"
     },
     {
       "title": "NVS Class 6th Entrance Exam Summer Bound Result 2026",
@@ -69,7 +154,7 @@
       "eligibility": [
         "iti NVS Class 6th Result 2026</ti"
       ],
-      "scraped_at": "2026-03-19T03:24:06.583686"
+      "scraped_at": "2026-03-21T03:05:26.833357"
     },
     {
       "title": "IBPS RRB 14th Office Assistant Mains Result 2026",
@@ -93,7 +178,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:07.926642"
+      "scraped_at": "2026-03-21T03:05:27.889052"
     },
     {
       "title": "Jharkhand High Court Assistant / Clerk 2024 Result",
@@ -117,7 +202,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:09.259437"
+      "scraped_at": "2026-03-21T03:05:28.897499"
     },
     {
       "title": "UPPSC Computer Assistant 2025 Result",
@@ -143,7 +228,7 @@
         "Diploma in Computer Science</li>\r\n\t<l",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:10.580195"
+      "scraped_at": "2026-03-21T03:05:30.296258"
     },
     {
       "title": "MPESB Sub Inspector SI Subedar Result 2026",
@@ -168,31 +253,7 @@
         "Diploma / Certificate Exam Passed 100",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:11.501163"
-    },
-    {
-      "title": "UPPSC LT Grade Assistant Teacher 2025 Result",
-      "url": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
-      "type": "Result",
-      "category": "UP",
-      "dates": {
-        "application_begin": "28/07/2025",
-        "last_date": "28/08/2025"
-      },
-      "fees": {
-        "general": 125,
-        "obc": 125,
-        "sc_st": 65,
-        "ews": 125
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 7466
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-19T03:24:12.892953"
+      "scraped_at": "2026-03-21T03:05:31.343191"
     },
     {
       "title": "UPSSSC Junior Analyst Drugs 2024 Final Result",
@@ -222,7 +283,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:13.822029"
+      "scraped_at": "2026-03-21T03:05:32.362006"
     },
     {
       "title": "Bank of Baroda Office Assistant Peon Result 2026",
@@ -245,7 +306,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:14.826136"
+      "scraped_at": "2026-03-21T03:05:33.952983"
     },
     {
       "title": "Patna High Court Mazdoor 2025 Final Result",
@@ -266,7 +327,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:15.743419"
+      "scraped_at": "2026-03-21T03:05:35.346477"
     },
     {
       "title": "Indian Airforce AFCAT 01/2026 Result",
@@ -286,70 +347,7 @@
         "B.Tech Course</li>\r\n</ul>\r\n</td>\r\n</",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-19T03:24:17.157334"
-    },
-    {
-      "title": "SBI Clerk 2025 Mains Score Card",
-      "url": "https://sbi.bank.in/web/careers/clk-mains-2025-rs",
-      "type": "Recruitment",
-      "category": "Banking",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1, maximum-scale=2"
-      ],
-      "scraped_at": "2026-03-19T03:24:19.120396"
-    },
-    {
-      "title": "BPSSC Enforcement Sub Inspector 2025 Final Result",
-      "url": "https://www.sarkariresult.com/bihar/bpssc-enforcement-si-03-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "30/05/2025",
-        "last_date": "30/06/2025",
-        "exam_date": "09/02/2026",
-        "admit_card": "25/01/2026"
-      },
-      "fees": {
-        "sc_st": 400,
-        "ews": 700
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 33
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-19T03:24:20.501237"
-    },
-    {
-      "title": "UPSC Civil Services IAS 2025 Final Result with Marks",
-      "url": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-2025/",
-      "type": "Result",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "22/01/2025",
-        "last_date": "21/02/2025",
-        "exam_date": "25/05/2025",
-        "admit_card": "13/05/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 1129
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-19T03:24:21.454196"
+      "scraped_at": "2026-03-21T03:05:36.753027"
     }
   ]
 }
