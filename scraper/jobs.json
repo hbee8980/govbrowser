@@ -1,8 +1,166 @@
 {
-  "last_updated": "2026-03-30T03:45:53.026403",
+  "last_updated": "2026-04-01T03:48:17.665541",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "Rajasthan Board RBSE Class 12th Result 2026",
+      "url": "https://www.sarkariresult.com/2026/rbse-12th-result-2026/",
+      "type": "Result",
+      "category": "Rajasthan",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:47:55.681757"
+    },
+    {
+      "title": "CTET February 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/ctet-feb-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "27/11/2025",
+        "last_date": "18/12/2025",
+        "admit_card": "12/03/2026"
+      },
+      "fees": {
+        "sc_st": 500
+      },
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "Diploma in Elementary Education (by w",
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:47:56.820526"
+    },
+    {
+      "title": "NABARD Development Assistant Pre Result 2026",
+      "url": "https://www.sarkariresult.com/bank/nabard-da-jan26/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "17/01/2026",
+        "last_date": "03/02/2026",
+        "exam_date": "21/02/2026",
+        "admit_card": "14/02/2026"
+      },
+      "fees": {
+        "general": 550,
+        "obc": 550,
+        "sc_st": 100,
+        "ews": 550
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 162
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:47:58.396809"
+    },
+    {
+      "title": "UPSC CDS II 2025 Final Result",
+      "url": "https://www.sarkariresult.com/upsc/upsc-cds-ii-2025/",
+      "type": "Result",
+      "category": "UPSC",
+      "dates": {
+        "application_begin": "28/05/2025",
+        "last_date": "17/06/2025",
+        "exam_date": "14/09/2025"
+      },
+      "fees": {
+        "general": 200,
+        "obc": 200,
+        "ews": 200
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 453
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:47:59.919396"
+    },
+    {
+      "title": "SSC CPO SI 2025 Paper I Result",
+      "url": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "26/09/2025",
+        "last_date": "17/10/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 20,
+        "max": 25,
+        "as_on": "01/08/2025"
+      },
+      "vacancies": {
+        "total": 3073
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:48:01.705667"
+    },
+    {
+      "title": "Patna High Court Mazdoor 2025 Score Card",
+      "url": "https://www.sarkariresult.com/bihar/phc-mazdoor-feb25/",
+      "type": "Recruitment",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "17/02/2025",
+        "last_date": "20/03/2025",
+        "exam_date": "22/06/2025",
+        "admit_card": "27/01/2026"
+      },
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {
+        "total": 171
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-01T03:48:02.912354"
+    },
+    {
+      "title": "UPPSC 2024 Final Result",
+      "url": "https://www.sarkariresult.com/2024/uppsc-pre-2024/",
+      "type": "Result",
+      "category": "UP",
+      "dates": {
+        "last_date": "29/01/2024",
+        "exam_date": "29/06/2025",
+        "admit_card": "11/12/2024"
+      },
+      "fees": {
+        "general": 125,
+        "obc": 125,
+        "sc_st": 65
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 220
+      },
+      "eligibility": [
+        "Diploma in Computer and 1 Year Experi",
+        "Graduate Diploma <b>OR</b> Post graduate Degree in Law / La"
+      ],
+      "scraped_at": "2026-04-01T03:48:03.977924"
+    },
     {
       "title": "Bihar Board BSEB Class 10th Result 2026",
       "url": "https://www.sarkariresult.com/2026/bseb-10-result-2026/",
@@ -15,7 +173,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:33.830831"
+      "scraped_at": "2026-04-01T03:48:05.490141"
     },
     {
       "title": "Bihar Board 10th Result 2026",
@@ -23,7 +181,7 @@
       "type": "Result",
       "category": "Bihar",
       "dates": {
-        "last_date": "03/04/2026"
+        "last_date": "30/04/2026"
       },
       "fees": {},
       "age_limit": {},
@@ -31,10 +189,10 @@
         "total": 600
       },
       "eligibility": [
-        "graduate, engineering, teaching, defence, and banking jobs",
-        "itial-scale=1"
+        "12th pass, graduate, engineering, teaching, defence, and ba",
+        "graduate, engineering, teaching, defence, and banking jobs"
       ],
-      "scraped_at": "2026-03-30T03:45:36.231762"
+      "scraped_at": "2026-04-01T03:48:08.242022"
     },
     {
       "title": "Punjab National Bank PNB Apprentice Result 2026",
@@ -59,7 +217,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:37.662441"
+      "scraped_at": "2026-04-01T03:48:09.764774"
     },
     {
       "title": "UP Police SI / ASI 2023 Final Result",
@@ -85,7 +243,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:39.192761"
+      "scraped_at": "2026-04-01T03:48:11.514969"
     },
     {
       "title": "CGPSC SSE Pre 2025 Result",
@@ -108,7 +266,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:40.534135"
+      "scraped_at": "2026-04-01T03:48:13.056004"
     },
     {
       "title": "MP Class 5th, Class 8th Result 2026",
@@ -122,7 +280,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:41.906390"
+      "scraped_at": "2026-04-01T03:48:14.580299"
     },
     {
       "title": "Rajasthan Board RBSE Class 10th Result 2026",
@@ -136,7 +294,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:42.911475"
+      "scraped_at": "2026-04-01T03:48:16.099498"
     },
     {
       "title": "Rajasthan Class 5th, 8th Result 2026",
@@ -150,148 +308,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-03-30T03:45:43.892481"
-    },
-    {
-      "title": "Delhi DSSSB PGT History 2023 Result",
-      "url": "https://www.sarkariresult.com/delhi/dsssb-latest-result/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-30T03:45:45.455663"
-    },
-    {
-      "title": "SSC Junior Engineer JE 2025 Paper I Marks, Final Answer Key",
-      "url": "https://www.sarkariresult.com/ssc/ssc-junior-engineer-je-2025/",
-      "type": "Answer Key",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "30/06/2025",
-        "last_date": "22/07/2025",
-        "exam_date": "07/04/2026"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 32
-      },
-      "vacancies": {
-        "total": 1731
-      },
-      "eligibility": [
-        "B.Tech Degree in Related Trade <b>OR",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-30T03:45:46.577025"
-    },
-    {
-      "title": "Bihar Board BSEB Class 12th Inter Result 2026",
-      "url": "https://www.sarkariresult.com/2026/bseb-12th-result-2026/",
-      "type": "Result",
-      "category": "Bihar",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-30T03:45:47.962374"
-    },
-    {
-      "title": "Rajasthan RRVUNL Technician, Operator, Plant Attendant Mains Result 2026",
-      "url": "https://www.sarkariresult.com/rpsc/rrvunl-technician-feb25/",
-      "type": "Result",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "21/02/2025",
-        "last_date": "20/03/2025",
-        "exam_date": "23/02/2026",
-        "admit_card": "12/02/2026"
-      },
-      "fees": {
-        "general": 1000,
-        "ews": 500
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 2163
-      },
-      "eligibility": [
-        "ITI Recruitment 2025 Check Eligib"
-      ],
-      "scraped_at": "2026-03-30T03:45:49.305556"
-    },
-    {
-      "title": "NTA NIFTEE 2026 Result",
-      "url": "https://www.sarkariresult.com/2026/nta-nift-2026/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "08/12/2025",
-        "last_date": "06/01/2026",
-        "exam_date": "08/02/2026",
-        "admit_card": "17/02/2026"
-      },
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "Graduate Degree in Any Recognized University / Institute in",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-30T03:45:50.313300"
-    },
-    {
-      "title": "SSC 10+2 CHSL 2025 Tier I Marks / Score Card",
-      "url": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
-      "type": "Recruitment",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "23/06/2025",
-        "last_date": "19/07/2025",
-        "exam_date": "12/11/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 27
-      },
-      "vacancies": {
-        "total": 3131
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-03-30T03:45:51.662924"
-    },
-    {
-      "title": "IIT JAM 2026 Result / Score Card",
-      "url": "https://joaps.iitb.ac.in/login",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "ition:relative;width:100%;height:"
-      ],
-      "scraped_at": "2026-03-30T03:45:52.525972"
+      "scraped_at": "2026-04-01T03:48:17.165371"
     }
   ]
 }
