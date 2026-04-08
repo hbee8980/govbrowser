@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-04-07T03:35:14.796861",
+  "last_updated": "2026-04-08T03:37:10.217328",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UPSSSC Rajasva Lekhpal 2022 New Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-01-2022/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "07/01/2022",
+        "last_date": "28/01/2022",
+        "exam_date": "31/07/2022",
+        "admit_card": "25/07/2022"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 8085
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-08T03:36:52.736353"
+    },
     {
       "title": "Delhi DDA JSA 2025 Result",
       "url": "https://tinyurl.com/b3p5z59h",
@@ -15,7 +41,7 @@
       "eligibility": [
         "ItI4x\u0011\u001d#3{[\u0001+a[K\u0006?+>sO\u0001Eb\u001a\u0000i X\f<X"
       ],
-      "scraped_at": "2026-04-07T03:34:56.073703"
+      "scraped_at": "2026-04-08T03:36:53.742741"
     },
     {
       "title": "Bihar Jeevika Result 2026",
@@ -29,7 +55,7 @@
       "eligibility": [
         "itial-scale=1"
       ],
-      "scraped_at": "2026-04-07T03:34:57.181700"
+      "scraped_at": "2026-04-08T03:36:54.764819"
     },
     {
       "title": "UPPSC RO / ARO 2023 Final Result",
@@ -55,7 +81,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:34:58.971535"
+      "scraped_at": "2026-04-08T03:36:56.431771"
     },
     {
       "title": "BSSC WO, Lower Division Clerk Final Result",
@@ -79,7 +105,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:00.064369"
+      "scraped_at": "2026-04-08T03:36:57.467623"
     },
     {
       "title": "Delhi DDS Multi Tasking Staff MTS 2025 Result",
@@ -93,7 +119,7 @@
       "eligibility": [
         "ITi4\fLY6Dmm&VRlslsϵg+\u0007?V\u0001~m\u0001E+mm"
       ],
-      "scraped_at": "2026-04-07T03:35:01.049186"
+      "scraped_at": "2026-04-08T03:36:58.298981"
     },
     {
       "title": "New India Assurance AO 2025 Final Result",
@@ -107,7 +133,7 @@
       "eligibility": [
         "itI5\u001avEx&YV\u001b+[Ɋt֮J\u0014yY\u0014ø"
       ],
-      "scraped_at": "2026-04-07T03:35:01.992445"
+      "scraped_at": "2026-04-08T03:36:59.075791"
     },
     {
       "title": "DSSSB PGT Teacher Post Code 15/2024 Result",
@@ -121,7 +147,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:03.109416"
+      "scraped_at": "2026-04-08T03:37:00.080361"
     },
     {
       "title": "UPPSC LT Grade Assistant Teacher 2025 Social Science Result",
@@ -147,7 +173,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:04.721132"
+      "scraped_at": "2026-04-08T03:37:01.078280"
     },
     {
       "title": "UPSSSC Junior Engineer JE 2024 Eligibility Result",
@@ -174,9 +200,9 @@
       },
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi",
-        "B.Tech Degree / Diploma in Civil Eng"
+        "Diploma in Civil Engineering from Any"
       ],
-      "scraped_at": "2026-04-07T03:35:06.279855"
+      "scraped_at": "2026-04-08T03:37:02.531206"
     },
     {
       "title": "Rajasthan Board RBSE Class 12th Result 2026",
@@ -190,7 +216,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:07.417947"
+      "scraped_at": "2026-04-08T03:37:03.998907"
     },
     {
       "title": "CTET February 2026 Result",
@@ -211,7 +237,7 @@
         "Diploma in Elementary Education (by w",
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:09.020797"
+      "scraped_at": "2026-04-08T03:37:05.007328"
     },
     {
       "title": "NABARD Development Assistant Pre Result 2026",
@@ -237,7 +263,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:10.612686"
+      "scraped_at": "2026-04-08T03:37:06.557303"
     },
     {
       "title": "UPSC CDS II 2025 Final Result",
@@ -261,7 +287,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:12.124974"
+      "scraped_at": "2026-04-08T03:37:08.022975"
     },
     {
       "title": "SSC CPO SI 2025 Paper I Result",
@@ -288,28 +314,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-07T03:35:13.188651"
-    },
-    {
-      "title": "Patna High Court Mazdoor 2025 Score Card",
-      "url": "https://www.sarkariresult.com/bihar/phc-mazdoor-feb25/",
-      "type": "Recruitment",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "17/02/2025",
-        "last_date": "20/03/2025",
-        "exam_date": "22/06/2025",
-        "admit_card": "27/01/2026"
-      },
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {
-        "total": 171
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-07T03:35:14.296738"
+      "scraped_at": "2026-04-08T03:37:09.717148"
     }
   ]
 }
