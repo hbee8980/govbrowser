@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-04-20T03:55:00.995545",
+  "last_updated": "2026-04-21T03:48:48.618040",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "NTA JEEMAIN Session II Result 2026",
+      "url": "https://www.sarkariresult.com/2026/nta-jeemain-session-2/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "01/02/2026",
+        "last_date": "25/02/2026"
+      },
+      "fees": {
+        "general": 1000,
+        "obc": 900,
+        "sc_st": 500,
+        "ews": 2000,
+        "female": 800
+      },
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "B.Tech / B"
+      ],
+      "scraped_at": "2026-04-21T03:48:33.664085"
+    },
     {
       "title": "RPSC RAS 2024 Final Result",
       "url": "https://www.sarkariresult.com/rpsc/rpsc-ras-2024/",
@@ -26,7 +50,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:43.780134"
+      "scraped_at": "2026-04-21T03:48:34.782693"
     },
     {
       "title": "Bihar BRLPS Jeevika Final Result 2026",
@@ -40,7 +64,7 @@
       "eligibility": [
         "itial-scale=1"
       ],
-      "scraped_at": "2026-04-20T03:54:44.867802"
+      "scraped_at": "2026-04-21T03:48:35.700302"
     },
     {
       "title": "HSSC Haryana Police Constable Result 2026 for PMT",
@@ -62,7 +86,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:45.911203"
+      "scraped_at": "2026-04-21T03:48:36.666944"
     },
     {
       "title": "HSSC CET Group C Result 2026",
@@ -86,7 +110,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:46.970060"
+      "scraped_at": "2026-04-21T03:48:37.682296"
     },
     {
       "title": "AIIMS Nursing Officer NORCET 10th Result 2026",
@@ -109,10 +133,10 @@
         "total": 2551
       },
       "eligibility": [
-        "Diploma in General Nursing Midwifery",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Diploma in General Nursing Midwifery"
       ],
-      "scraped_at": "2026-04-20T03:54:48.437546"
+      "scraped_at": "2026-04-21T03:48:38.656475"
     },
     {
       "title": "UPSC NDA II 2025 Marks",
@@ -135,7 +159,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:49.517637"
+      "scraped_at": "2026-04-21T03:48:39.662470"
     },
     {
       "title": "CBSE Board Class 10th Result 2026",
@@ -149,7 +173,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:50.548690"
+      "scraped_at": "2026-04-21T03:48:40.636294"
     },
     {
       "title": "MP Board Class 10th Result 2026",
@@ -163,7 +187,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:52.057126"
+      "scraped_at": "2026-04-21T03:48:41.668339"
     },
     {
       "title": "MHA IB MTS 2025 Tier I Result",
@@ -190,7 +214,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:53.249933"
+      "scraped_at": "2026-04-21T03:48:42.636738"
     },
     {
       "title": "India Post GDS 2026 Second Merit List / Result",
@@ -212,7 +236,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:54.258136"
+      "scraped_at": "2026-04-21T03:48:43.638807"
     },
     {
       "title": "LIC AAO, AE Final Result 2026",
@@ -238,7 +262,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:55.711803"
+      "scraped_at": "2026-04-21T03:48:44.642532"
     },
     {
       "title": "MPESB MP Police Constable 2025 Final Result",
@@ -263,7 +287,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:56.732259"
+      "scraped_at": "2026-04-21T03:48:45.625366"
     },
     {
       "title": "UPSC CPF AC 2025 Result Name Wise",
@@ -287,7 +311,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:58.189247"
+      "scraped_at": "2026-04-21T03:48:47.089477"
     },
     {
       "title": "KVS Class 1 Lottery Result 2026",
@@ -304,34 +328,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-20T03:54:59.249416"
-    },
-    {
-      "title": "SSC CGL 2025 Final Result",
-      "url": "https://www.sarkariresult.com/ssc/ssc-cgl-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "09/06/2025",
-        "last_date": "05/07/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 18,
-        "as_on": "01/08/2025"
-      },
-      "vacancies": {
-        "total": 14582
-      },
-      "eligibility": [
-        "Graduate Level CGL 2025 Final Result 2026</title>\r\n\r\n<meta",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-20T03:55:00.495375"
+      "scraped_at": "2026-04-21T03:48:48.117845"
     }
   ]
 }
