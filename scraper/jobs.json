@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-04-21T03:48:48.618040",
+  "last_updated": "2026-04-22T03:45:23.650847",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UP Board Result 2026",
+      "url": "https://www.sarkariresult.com/2026/up-board-result-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-22T03:45:05.366078"
+    },
+    {
+      "title": "SSC CPO SI 2025 Paper I Marks, Final Answer Key",
+      "url": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
+      "type": "Answer Key",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "26/09/2025",
+        "last_date": "17/10/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 20,
+        "max": 25,
+        "as_on": "01/08/2025"
+      },
+      "vacancies": {
+        "total": 3073
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-04-22T03:45:07.050681"
+    },
     {
       "title": "NTA JEEMAIN Session II Result 2026",
       "url": "https://www.sarkariresult.com/2026/nta-jeemain-session-2/",
@@ -25,7 +66,7 @@
         "itial-scale=1\">-->\n<meta name=\"vi",
         "B.Tech / B"
       ],
-      "scraped_at": "2026-04-21T03:48:33.664085"
+      "scraped_at": "2026-04-22T03:45:08.060133"
     },
     {
       "title": "RPSC RAS 2024 Final Result",
@@ -50,7 +91,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:34.782693"
+      "scraped_at": "2026-04-22T03:45:09.108428"
     },
     {
       "title": "Bihar BRLPS Jeevika Final Result 2026",
@@ -64,7 +105,7 @@
       "eligibility": [
         "itial-scale=1"
       ],
-      "scraped_at": "2026-04-21T03:48:35.700302"
+      "scraped_at": "2026-04-22T03:45:11.481370"
     },
     {
       "title": "HSSC Haryana Police Constable Result 2026 for PMT",
@@ -86,7 +127,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:36.666944"
+      "scraped_at": "2026-04-22T03:45:13.030433"
     },
     {
       "title": "HSSC CET Group C Result 2026",
@@ -110,7 +151,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:37.682296"
+      "scraped_at": "2026-04-22T03:45:14.141739"
     },
     {
       "title": "AIIMS Nursing Officer NORCET 10th Result 2026",
@@ -133,10 +174,10 @@
         "total": 2551
       },
       "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "Diploma in General Nursing Midwifery"
+        "Diploma in General Nursing Midwifery",
+        "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:38.656475"
+      "scraped_at": "2026-04-22T03:45:15.270865"
     },
     {
       "title": "UPSC NDA II 2025 Marks",
@@ -159,7 +200,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:39.662470"
+      "scraped_at": "2026-04-22T03:45:16.320434"
     },
     {
       "title": "CBSE Board Class 10th Result 2026",
@@ -173,7 +214,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:40.636294"
+      "scraped_at": "2026-04-22T03:45:17.347008"
     },
     {
       "title": "MP Board Class 10th Result 2026",
@@ -187,7 +228,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:41.668339"
+      "scraped_at": "2026-04-22T03:45:18.801295"
     },
     {
       "title": "MHA IB MTS 2025 Tier I Result",
@@ -214,7 +255,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:42.636738"
+      "scraped_at": "2026-04-22T03:45:19.846494"
     },
     {
       "title": "India Post GDS 2026 Second Merit List / Result",
@@ -236,7 +277,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:43.638807"
+      "scraped_at": "2026-04-22T03:45:21.016154"
     },
     {
       "title": "LIC AAO, AE Final Result 2026",
@@ -262,7 +303,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:44.642532"
+      "scraped_at": "2026-04-22T03:45:22.020111"
     },
     {
       "title": "MPESB MP Police Constable 2025 Final Result",
@@ -287,48 +328,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-21T03:48:45.625366"
-    },
-    {
-      "title": "UPSC CPF AC 2025 Result Name Wise",
-      "url": "https://www.sarkariresult.com/upsc/upsc-cpf-ac-capf-2025/",
-      "type": "Result",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "05/03/2025",
-        "last_date": "25/03/2025",
-        "exam_date": "03/08/2025",
-        "admit_card": "09/04/2026"
-      },
-      "fees": {
-        "general": 200,
-        "obc": 200
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 357
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-21T03:48:47.089477"
-    },
-    {
-      "title": "KVS Class 1 Lottery Result 2026",
-      "url": "https://www.sarkariresult.com/2026/kvs-class-1-admissions/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "20/03/2026",
-        "last_date": "02/04/2026"
-      },
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-21T03:48:48.117845"
+      "scraped_at": "2026-04-22T03:45:23.150675"
     }
   ]
 }
