@@ -1,8 +1,247 @@
 {
-  "last_updated": "2026-04-25T03:36:54.535582",
+  "last_updated": "2026-05-01T04:34:13.259390",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "UPPSC APO 2025 Pre Result",
+      "url": "https://www.sarkariresult.com/2025/uppsc-apo/",
+      "type": "Result",
+      "category": "UP",
+      "dates": {
+        "application_begin": "16/09/2025",
+        "last_date": "16/10/2025",
+        "exam_date": "22/03/2026",
+        "admit_card": "12/03/2026"
+      },
+      "fees": {
+        "general": 125,
+        "obc": 125,
+        "sc_st": 65,
+        "ews": 125
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 182
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:36.767633"
+    },
+    {
+      "title": "UPSSSC Sachiv Grade II 2024 Final Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-sachiv-06-exam-2024/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "24/04/2024",
+        "last_date": "24/05/2024",
+        "exam_date": "13/04/2025",
+        "admit_card": "09/04/2025"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {
+        "min": 21,
+        "max": 40,
+        "as_on": "01/07/2024"
+      },
+      "vacancies": {
+        "total": 134
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:45.047374"
+    },
+    {
+      "title": "UPSSSC Forest Guard 2023 PET Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-forest-10-2023/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "20/09/2023",
+        "last_date": "10/10/2023",
+        "admit_card": "04/02/2026"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 709
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:51.167270"
+    },
+    {
+      "title": "UPSSSC Enforcement Constable 2023 PET Result",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-enforcement-04-2023/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "07/07/2023",
+        "last_date": "28/07/2023",
+        "exam_date": "11/05/2025",
+        "admit_card": "07/05/2025"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 477
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:52.737451"
+    },
+    {
+      "title": "CISCE Board Class 10th, 12th Result 2026",
+      "url": "https://www.sarkariresult.com/2026/cisce-result-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:55.068979"
+    },
+    {
+      "title": "SSC Delhi Police Constable Driver Result 2026",
+      "url": "https://www.sarkariresult.com/ssc/ssc-dp-constable-driver-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "24/09/2025",
+        "last_date": "16/10/2025",
+        "admit_card": "14/12/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 21,
+        "max": 30
+      },
+      "vacancies": {
+        "total": 737
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:33:57.749445"
+    },
+    {
+      "title": "Chhattisgarh Board Class 10th, 12th Result 2026",
+      "url": "https://www.sarkariresult.com/2026/cgboard-result/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:34:00.670454"
+    },
+    {
+      "title": "UPPSC Assistant Registrar 2024 Final Result",
+      "url": "https://www.sarkariresult.com/2024/uppsc-asst-registrar-aug24/",
+      "type": "Result",
+      "category": "UP",
+      "dates": {
+        "application_begin": "28/08/2024",
+        "last_date": "28/09/2024",
+        "admit_card": "17/04/2025"
+      },
+      "fees": {
+        "general": 225,
+        "obc": 225,
+        "sc_st": 105,
+        "ews": 225
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 38
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:34:02.093417"
+    },
+    {
+      "title": "CSBC Bihar Police Constable Driver PET Result 2026",
+      "url": "https://www.sarkariresult.com/bihar/csbc-bihar-police-driver-02-2025/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "21/07/2025",
+        "last_date": "20/08/2025",
+        "exam_date": "10/12/2025",
+        "admit_card": "03/12/2025"
+      },
+      "fees": {
+        "obc": 675,
+        "sc_st": 180,
+        "ews": 675,
+        "female": 180
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 4361
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:34:03.359342"
+    },
+    {
+      "title": "Delhi High Court JJA Result 2026",
+      "url": "https://www.sarkariresult.com/delhi/delhi-hc-jja-restorer-feb26/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "04/02/2026",
+        "last_date": "23/02/2026",
+        "exam_date": "22/03/2026",
+        "admit_card": "24/03/2026"
+      },
+      "fees": {
+        "general": 1500,
+        "obc": 1500,
+        "sc_st": 1300,
+        "ews": 1500
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 152
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-01T04:34:04.807984"
+    },
     {
       "title": "Uttarakhand Board UBSE Class 10th, 12th Result 2026",
       "url": "https://www.sarkariresult.com/2026/ubse-class-10th-12th-result/",
@@ -15,7 +254,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-25T03:36:37.397214"
+      "scraped_at": "2026-05-01T04:34:05.847195"
     },
     {
       "title": "Patna High Court Stenographer 2025 Final Result",
@@ -29,7 +268,7 @@
       "eligibility": [
         "Itixx\r< \bH\u0013\u0011f/:EhK\u001cޢ\u0013f/42,S@!2"
       ],
-      "scraped_at": "2026-04-25T03:36:38.178809"
+      "scraped_at": "2026-05-01T04:34:06.743394"
     },
     {
       "title": "NTA CUET PG 2026 Result / Score Card",
@@ -49,10 +288,10 @@
       "age_limit": {},
       "vacancies": {},
       "eligibility": [
-        "Diploma / M",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Graduate <span style=\"color: #008000;\">CUET PG Admission 20"
       ],
-      "scraped_at": "2026-04-25T03:36:39.807276"
+      "scraped_at": "2026-05-01T04:34:08.685810"
     },
     {
       "title": "CBSE Class 10th Second Board Exam 2026 Time Table",
@@ -66,7 +305,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-25T03:36:40.822941"
+      "scraped_at": "2026-05-01T04:34:11.341862"
     },
     {
       "title": "UP Board Class 10th Result 2026",
@@ -80,234 +319,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-04-25T03:36:41.950507"
-    },
-    {
-      "title": "Jharkhand Board JAC Class 10th Result 2026",
-      "url": "https://www.sarkariresult.com/2026/jac-10th-result-2026/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:42.950992"
-    },
-    {
-      "title": "Yantra India Ltd YIL Apprentices Result 2026",
-      "url": "https://www.sarkariresult.com/2026/yil-apprentices-feb26/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "01/02/2026",
-        "last_date": "03/03/2026"
-      },
-      "fees": {
-        "general": 200,
-        "obc": 200,
-        "sc_st": 100,
-        "female": 100
-      },
-      "age_limit": {
-        "min": 14,
-        "max": 18,
-        "as_on": "03/03/2026"
-      },
-      "vacancies": {
-        "total": 3979
-      },
-      "eligibility": [
-        "ITI and Non ITI Apprentices 2026,"
-      ],
-      "scraped_at": "2026-04-25T03:36:44.620080"
-    },
-    {
-      "title": "SSC CPO SI 2025 Paper I Marks, Final Answer Key",
-      "url": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
-      "type": "Answer Key",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "26/09/2025",
-        "last_date": "17/10/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 20,
-        "max": 25,
-        "as_on": "01/08/2025"
-      },
-      "vacancies": {
-        "total": 3073
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:45.695524"
-    },
-    {
-      "title": "NTA JEEMAIN Session II Result 2026",
-      "url": "https://www.sarkariresult.com/2026/nta-jeemain-session-2/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "01/02/2026",
-        "last_date": "25/02/2026"
-      },
-      "fees": {
-        "general": 1000,
-        "obc": 900,
-        "sc_st": 500,
-        "ews": 2000,
-        "female": 800
-      },
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "B.Tech / B"
-      ],
-      "scraped_at": "2026-04-25T03:36:46.718147"
-    },
-    {
-      "title": "RPSC RAS 2024 Final Result",
-      "url": "https://www.sarkariresult.com/rpsc/rpsc-ras-2024/",
-      "type": "Result",
-      "category": "Rajasthan",
-      "dates": {
-        "application_begin": "19/09/2024",
-        "last_date": "18/10/2024",
-        "exam_date": "02/02/2025",
-        "admit_card": "14/06/2025"
-      },
-      "fees": {
-        "obc": 400,
-        "sc_st": 400,
-        "ews": 400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 1096
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:47.817828"
-    },
-    {
-      "title": "Bihar BRLPS Jeevika Final Result 2026",
-      "url": "https://cdn3.digialm.com//EForms/configuredHtml/1631/95045/login.html",
-      "type": "Result",
-      "category": "Bihar",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1"
-      ],
-      "scraped_at": "2026-04-25T03:36:49.416580"
-    },
-    {
-      "title": "HSSC Haryana Police Constable Result 2026 for PMT",
-      "url": "https://www.sarkariresult.com/hssc/hssc-constable-01-2026/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "11/01/2026"
-      },
-      "fees": {},
-      "age_limit": {
-        "min": 18,
-        "max": 28,
-        "as_on": "01/01/2026"
-      },
-      "vacancies": {
-        "total": 5500
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:50.431902"
-    },
-    {
-      "title": "HSSC CET Group C Result 2026",
-      "url": "https://www.sarkariresult.com/hssc/hssc-cet-group-c-01-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "28/05/2025",
-        "last_date": "14/06/2025"
-      },
-      "fees": {
-        "general": 500,
-        "ews": 250
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 42,
-        "as_on": "12/06/2025"
-      },
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:51.574254"
-    },
-    {
-      "title": "AIIMS Nursing Officer NORCET 10th Result 2026",
-      "url": "https://www.sarkariresult.com/2026/aiims-norcet-10th/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "24/02/2026",
-        "last_date": "16/03/2026",
-        "exam_date": "11/04/2026"
-      },
-      "fees": {
-        "general": 3000,
-        "obc": 3000,
-        "sc_st": 2400,
-        "ews": 2400
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 2551
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi",
-        "Diploma in General Nursing Midwifery"
-      ],
-      "scraped_at": "2026-04-25T03:36:53.024161"
-    },
-    {
-      "title": "UPSC NDA II 2025 Marks",
-      "url": "https://www.sarkariresult.com/upsc/upsc-nda-ii-2025/",
-      "type": "Recruitment",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "28/05/2025",
-        "last_date": "17/06/2025",
-        "admit_card": "08/04/2026"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 406
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-04-25T03:36:54.035409"
+      "scraped_at": "2026-05-01T04:34:12.759230"
     }
   ]
 }
