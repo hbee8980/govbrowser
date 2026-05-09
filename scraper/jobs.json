@@ -1,8 +1,254 @@
 {
-  "last_updated": "2026-05-07T04:10:07.709586",
+  "last_updated": "2026-05-09T04:01:32.271236",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "MPESB MP Police ASI / HC Computer Result 2026",
+      "url": "https://www.sarkariresult.com/mp/mpesb-asi-hc-computer-feb26/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "05/02/2026",
+        "last_date": "19/02/2026",
+        "admit_card": "18/03/2026"
+      },
+      "fees": {
+        "general": 560,
+        "obc": 310,
+        "sc_st": 310
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 89
+      },
+      "eligibility": [
+        "Diploma in Computer / Information Tec",
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:11.947182"
+    },
+    {
+      "title": "IDBI Bank JAM, Assistant Manager Result 2026",
+      "url": "https://www.sarkariresult.com/bank/idbi-jam-am-march26/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "08/03/2026",
+        "last_date": "19/03/2026",
+        "exam_date": "12/04/2026",
+        "admit_card": "04/04/2026"
+      },
+      "fees": {
+        "general": 1050,
+        "obc": 1050,
+        "sc_st": 250,
+        "ews": 1050
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 1300
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:13.456635"
+    },
+    {
+      "title": "UPSC CDS I Result 2026",
+      "url": "https://www.sarkariresult.com/upsc/upsc-cds-i-2026/",
+      "type": "Result",
+      "category": "UPSC",
+      "dates": {
+        "application_begin": "10/12/2025",
+        "last_date": "30/12/2025",
+        "exam_date": "12/04/2026",
+        "admit_card": "02/04/2026"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "as_on": "01/01/2027"
+      },
+      "vacancies": {
+        "total": 394
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:14.903938"
+    },
+    {
+      "title": "UPSC IFS 2025 Final Result",
+      "url": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-2025/",
+      "type": "Result",
+      "category": "UPSC",
+      "dates": {
+        "application_begin": "22/01/2025",
+        "last_date": "21/02/2025",
+        "exam_date": "25/05/2025",
+        "admit_card": "13/05/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 1129
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:16.629112"
+    },
+    {
+      "title": "UPSC NDA I Result 2026",
+      "url": "https://www.sarkariresult.com/upsc/upsc-nda-i-2026/",
+      "type": "Result",
+      "category": "UPSC",
+      "dates": {
+        "application_begin": "10/12/2025",
+        "last_date": "30/12/2025",
+        "exam_date": "12/04/2026",
+        "admit_card": "02/04/2026"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 394
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:18.146554"
+    },
+    {
+      "title": "RRB Railway Section Officer Result / Score Card 2026",
+      "url": "https://www.sarkariresult.com/railway/rrb-section-controller-04-2025/",
+      "type": "Result",
+      "category": "Railway",
+      "dates": {
+        "application_begin": "15/09/2025",
+        "last_date": "16/10/2025"
+      },
+      "fees": {
+        "general": 500,
+        "obc": 500,
+        "sc_st": 250,
+        "ews": 500
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 368
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:19.782255"
+    },
+    {
+      "title": "IB Security Assistant Executive Tier II Result 2026",
+      "url": "https://www.sarkariresult.com/2025/mha-ib-sa-exe-2025/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "26/07/2025",
+        "last_date": "17/08/2025",
+        "exam_date": "08/05/2026",
+        "admit_card": "08/05/2026"
+      },
+      "fees": {
+        "general": 650,
+        "obc": 650,
+        "sc_st": 550,
+        "ews": 650
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 4987
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:21.271446"
+    },
+    {
+      "title": "Maharashtra Board Class Xth SSC Result 2026",
+      "url": "https://www.sarkariresult.com/2026/maharashtra-ssc-result/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:22.723046"
+    },
+    {
+      "title": "UP Police Sub Inspector SI Result 2026",
+      "url": "https://www.sarkariresult.com/2025/up-police-si-03-2025/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "12/08/2025",
+        "last_date": "11/09/2025"
+      },
+      "fees": {
+        "general": 500,
+        "obc": 500,
+        "sc_st": 400,
+        "ews": 500
+      },
+      "age_limit": {
+        "min": 21,
+        "max": 28
+      },
+      "vacancies": {
+        "total": 4543
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi"
+      ],
+      "scraped_at": "2026-05-09T04:01:24.409421"
+    },
+    {
+      "title": "Railway RRB NTPC CEN 05/2024 Final Result",
+      "url": "https://www.sarkariresult.com/railway/rrb-ntpc-graduate-05-2024/",
+      "type": "Result",
+      "category": "Railway",
+      "dates": {
+        "application_begin": "14/09/2024",
+        "last_date": "22/10/2024",
+        "admit_card": "07/05/2026"
+      },
+      "fees": {
+        "general": 500,
+        "obc": 500,
+        "sc_st": 250,
+        "ews": 500,
+        "female": 250
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 8113
+      },
+      "eligibility": [
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "Graduate Level CEN 05/2025 Final Result 2026</title>\r\n\r\n<me"
+      ],
+      "scraped_at": "2026-05-09T04:01:26.073222"
+    },
     {
       "title": "BPSSC Range Officer Forests 2025 Marksheet",
       "url": "https://www.sarkariresult.com/bihar/bpssc-range-forest-02-2025/",
@@ -23,7 +269,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-05-07T04:09:49.861615"
+      "scraped_at": "2026-05-09T04:01:26.937390"
     },
     {
       "title": "NTA JEEMAIN Session II Paper 2 Result 2026",
@@ -44,10 +290,10 @@
       "age_limit": {},
       "vacancies": {},
       "eligibility": [
-        "B.Tech / B",
-        "itial-scale=1\">-->\n<meta name=\"vi"
+        "itial-scale=1\">-->\n<meta name=\"vi",
+        "B.Tech / B"
       ],
-      "scraped_at": "2026-05-07T04:09:51.383084"
+      "scraped_at": "2026-05-09T04:01:28.360838"
     },
     {
       "title": "Bihar OFSS 11th Admission First Merit List / Cutoff 2026",
@@ -69,7 +315,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-05-07T04:09:52.809258"
+      "scraped_at": "2026-05-09T04:01:29.346500"
     },
     {
       "title": "RSSB Jail Prahari 2024 Final Result",
@@ -93,7 +339,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-05-07T04:09:53.785353"
+      "scraped_at": "2026-05-09T04:01:30.332030"
     },
     {
       "title": "HPSC HCS Pre Result 2026",
@@ -117,236 +363,7 @@
       "eligibility": [
         "itial-scale=1\">-->\n<meta name=\"vi"
       ],
-      "scraped_at": "2026-05-07T04:09:55.307803"
-    },
-    {
-      "title": "MHA IB SA / MT 2025 Final Result",
-      "url": "https://www.sarkariresult.com/2025/mha-ib-sa-mt-2025/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "06/09/2025",
-        "last_date": "28/09/2025",
-        "exam_date": "17/10/2025",
-        "admit_card": "17/10/2025"
-      },
-      "fees": {
-        "general": 650,
-        "obc": 650,
-        "sc_st": 550,
-        "ews": 650,
-        "female": 550
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 455
-      },
-      "eligibility": [
-        "10th Passed from Any Recognized Board</li>\r\n\t<li>Possession o",
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:09:56.366740"
-    },
-    {
-      "title": "Maharashtra Board HSC Class 12th Result 2026",
-      "url": "https://www.sarkariresult.com/2026/maharashtra-board-result/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:09:57.818618"
-    },
-    {
-      "title": "UPPSC APO 2025 Pre Result",
-      "url": "https://www.sarkariresult.com/2025/uppsc-apo/",
-      "type": "Result",
-      "category": "UP",
-      "dates": {
-        "application_begin": "16/09/2025",
-        "last_date": "16/10/2025",
-        "exam_date": "22/03/2026",
-        "admit_card": "12/03/2026"
-      },
-      "fees": {
-        "general": 125,
-        "obc": 125,
-        "sc_st": 65,
-        "ews": 125
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 182
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:09:58.774653"
-    },
-    {
-      "title": "UPSSSC Sachiv Grade II 2024 Final Result",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-sachiv-06-exam-2024/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "24/04/2024",
-        "last_date": "24/05/2024",
-        "exam_date": "13/04/2025",
-        "admit_card": "09/04/2025"
-      },
-      "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
-      },
-      "age_limit": {
-        "min": 21,
-        "max": 40,
-        "as_on": "01/07/2024"
-      },
-      "vacancies": {
-        "total": 134
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:00.328092"
-    },
-    {
-      "title": "UPSSSC Forest Guard 2023 PET Result",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-forest-10-2023/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "20/09/2023",
-        "last_date": "10/10/2023",
-        "admit_card": "04/02/2026"
-      },
-      "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 709
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:01.773188"
-    },
-    {
-      "title": "UPSSSC Enforcement Constable 2023 PET Result",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-enforcement-04-2023/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "07/07/2023",
-        "last_date": "28/07/2023",
-        "exam_date": "11/05/2025",
-        "admit_card": "07/05/2025"
-      },
-      "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 477
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:02.745441"
-    },
-    {
-      "title": "CISCE Board Class 10th, 12th Result 2026",
-      "url": "https://www.sarkariresult.com/2026/cisce-result-2026/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:04.256549"
-    },
-    {
-      "title": "SSC Delhi Police Constable Driver Result 2026",
-      "url": "https://www.sarkariresult.com/ssc/ssc-dp-constable-driver-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "24/09/2025",
-        "last_date": "16/10/2025",
-        "admit_card": "14/12/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 21,
-        "max": 30
-      },
-      "vacancies": {
-        "total": 737
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:05.259496"
-    },
-    {
-      "title": "Chhattisgarh Board Class 10th, 12th Result 2026",
-      "url": "https://www.sarkariresult.com/2026/cgboard-result/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {},
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:06.235862"
-    },
-    {
-      "title": "UPPSC Assistant Registrar 2024 Final Result",
-      "url": "https://www.sarkariresult.com/2024/uppsc-asst-registrar-aug24/",
-      "type": "Result",
-      "category": "UP",
-      "dates": {
-        "application_begin": "28/08/2024",
-        "last_date": "28/09/2024",
-        "admit_card": "17/04/2025"
-      },
-      "fees": {
-        "general": 225,
-        "obc": 225,
-        "sc_st": 105,
-        "ews": 225
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 38
-      },
-      "eligibility": [
-        "itial-scale=1\">-->\n<meta name=\"vi"
-      ],
-      "scraped_at": "2026-05-07T04:10:07.209425"
+      "scraped_at": "2026-05-09T04:01:31.771073"
     }
   ]
 }
