@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-05-31T05:02:32.139636",
-  "total_jobs": 8,
+  "last_updated": "2026-06-01T05:22:48.201911",
+  "total_jobs": 14,
   "source": "sarkariresult.com",
   "jobs": [
+    {
+      "title": "SARKARl RESULT®",
+      "url": "https://www.sarkariresult.com/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {
+        "total": 2025
+      },
+      "eligibility": [
+        "graduate-06-2024/\" target=\"_blank\" rel=\"noreferrer noopene",
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-01T05:21:55.174238"
+    },
     {
       "title": "CTET Sep 2026 Apply Online",
       "url": "https://www.sarkariresult.com/2026/ctet-september-2026/",
@@ -24,7 +41,7 @@
         "Diploma in Elementary Education (by w",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:57:58.503179"
+      "scraped_at": "2026-06-01T05:21:56.811890"
     },
     {
       "title": "UPSSSC Various Apply Online",
@@ -45,7 +62,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:58:13.840776"
+      "scraped_at": "2026-06-01T05:21:58.067760"
     },
     {
       "title": "UPSC CDS II Apply Online",
@@ -73,7 +90,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:58:27.608053"
+      "scraped_at": "2026-06-01T05:21:59.711224"
     },
     {
       "title": "UGC NET June 2026 Apply Online",
@@ -97,10 +114,35 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:58:43.007031"
+      "scraped_at": "2026-06-01T05:22:01.338398"
     },
     {
-      "title": "UPSSSC TA Group C Apply ONline",
+      "title": "UP TGT Exam 2026 Admit Card",
+      "url": "https://www.sarkariresult.com/2022/up-tgt-01-2022/",
+      "type": "Admit Card",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "09/06/2022",
+        "last_date": "13/07/2022",
+        "admit_card": "31/05/2026"
+      },
+      "fees": {
+        "general": 750,
+        "obc": 750,
+        "ews": 450
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 3539
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Graduate Teacher\"/>\n<meta name=\"robots\" content=\"follow, in"
+      ],
+      "scraped_at": "2026-06-01T05:22:02.586091"
+    },
+    {
+      "title": "UPSSSC TA Group C Apply Online",
       "url": "https://www.sarkariresult.com/upsssc/upsssc-technical-06-exam-2026/",
       "type": "Recruitment",
       "category": "SSC",
@@ -126,7 +168,56 @@
         "itial-scale=1\">\n<!-- Search Engin",
         "B.Tech Engineering Degree in Agricul"
       ],
-      "scraped_at": "2026-05-31T04:59:22.557626"
+      "scraped_at": "2026-06-01T05:22:04.173112"
+    },
+    {
+      "title": "UPSSSC Lower PCS Apply Online",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-lower-07-exam-2026/",
+      "type": "Recruitment",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "29/05/2026",
+        "last_date": "18/06/2026"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 40,
+        "as_on": "01/07/2026"
+      },
+      "vacancies": {
+        "total": 2516
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Graduate Level Online Form 2026 for 2516 Post</title>\n<link"
+      ],
+      "scraped_at": "2026-06-01T05:22:05.174509"
+    },
+    {
+      "title": "IIT JEE Advanced 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/jee-advanced-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "23/04/2026",
+        "last_date": "05/05/2026",
+        "admit_card": "11/05/2026"
+      },
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {
+        "total": 21597
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-01T05:22:06.872263"
     },
     {
       "title": "Railway RRB Technician Grade III CEN 02/2025 Post Result 2026",
@@ -148,10 +239,10 @@
         "total": 6238
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "B.Tech  / 3 Year Engineering Polytec"
+        "B.Tech  / 3 Year Engineering Polytec",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:59:37.788528"
+      "scraped_at": "2026-06-01T05:22:07.824039"
     },
     {
       "title": "Railway RRB Paramedical CEN 03/2025 Post Result 2026",
@@ -173,10 +264,33 @@
         "total": 434
       },
       "eligibility": [
-        "Diploma / Degree in Related Post / Tr",
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma / Degree in Related Post / Tr"
+      ],
+      "scraped_at": "2026-06-01T05:22:09.484427"
+    },
+    {
+      "title": "SSC Delhi Police Head Constable AWO / TPO Result 2026",
+      "url": "https://www.sarkariresult.com/ssc/ssc-delhi-police-hc-awo-tpo-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "24/09/2025",
+        "last_date": "16/10/2025",
+        "admit_card": "05/02/2026"
+      },
+      "fees": {},
+      "age_limit": {
+        "min": 18,
+        "max": 27
+      },
+      "vacancies": {
+        "total": 552
+      },
+      "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T04:59:59.492562"
+      "scraped_at": "2026-06-01T05:22:11.179540"
     },
     {
       "title": "CSBC Bihar Police Constable 2025 Final Result",
@@ -200,7 +314,34 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-05-31T05:01:15.109513"
+      "scraped_at": "2026-06-01T05:22:46.168860"
+    },
+    {
+      "title": "SSC Delhi Police Constable Driver 2025 Marks",
+      "url": "https://www.sarkariresult.com/ssc/ssc-dp-constable-driver-2025/",
+      "type": "Recruitment",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "24/09/2025",
+        "last_date": "16/10/2025",
+        "admit_card": "14/12/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 21,
+        "max": 30
+      },
+      "vacancies": {
+        "total": 737
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-01T05:22:47.701787"
     }
   ]
 }
