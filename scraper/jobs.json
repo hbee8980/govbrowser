@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T05:23:02.189697",
-  "total_jobs": 14,
+  "last_updated": "2026-06-08T05:08:57.387297",
+  "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
     {
@@ -15,13 +15,13 @@
         "total": 2025
       },
       "eligibility": [
-        "btech-jan2027/\" target=\"_blank\" rel",
-        "graduate-06-2024/\" target=\"_blank\" rel=\"noreferrer noopene"
+        "itial-scale=1\">\n<!-- Search Engin",
+        "btech-jan2027/\" target=\"_blank\">Ind"
       ],
-      "scraped_at": "2026-06-03T05:22:06.980929"
+      "scraped_at": "2026-06-08T05:08:39.259422"
     },
     {
-      "title": "CTET Sep 2026                             Apply Online",
+      "title": "CTET Sep 2026 Apply Online",
       "url": "https://www.sarkariresult.com/2026/ctet-september-2026/",
       "type": "Recruitment",
       "category": "Central Govt",
@@ -38,13 +38,13 @@
         "total": 21600
       },
       "eligibility": [
-        "Diploma in Elementary Education (by w",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma in Elementary Education (by w"
       ],
-      "scraped_at": "2026-06-03T05:22:08.533209"
+      "scraped_at": "2026-06-08T05:08:40.943542"
     },
     {
-      "title": "Allahabad High Court RO ARO CA            Apply Online",
+      "title": "Allahabad High Court RO ARO CA Apply Online",
       "url": "https://www.sarkariresult.com/2026/ahc-ro-aro-ca-june2026/",
       "type": "Recruitment",
       "category": "Central Govt",
@@ -66,10 +66,10 @@
         "total": 543
       },
       "eligibility": [
-        "Diploma in Computer Science <b>OR</b>",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma in Computer Science <b>OR</b>"
       ],
-      "scraped_at": "2026-06-03T05:22:09.661576"
+      "scraped_at": "2026-06-08T05:08:42.003051"
     },
     {
       "title": "UPSC CDS II Apply Online",
@@ -97,61 +97,40 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:11.220083"
+      "scraped_at": "2026-06-08T05:08:43.461892"
     },
     {
-      "title": "UGC NET June 2026 Apply Online",
-      "url": "https://www.sarkariresult.com/2026/nta-ugc-net-june-2026/",
+      "title": "UPSSSC Excise Constable Apply Online",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-excise-constable-08-exam2026/",
       "type": "Recruitment",
-      "category": "Central Govt",
+      "category": "SSC",
       "dates": {
-        "application_begin": "29/04/2026",
-        "last_date": "24/05/2026"
+        "application_begin": "04/06/2026",
+        "last_date": "24/06/2026"
       },
       "fees": {
-        "general": 1150,
-        "obc": 600,
-        "sc_st": 325,
-        "ews": 600
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
       },
-      "age_limit": {},
+      "age_limit": {
+        "min": 18,
+        "max": 40,
+        "as_on": "01/07/2026"
+      },
       "vacancies": {
-        "total": 12939
+        "total": 722
       },
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:12.781104"
+      "scraped_at": "2026-06-08T05:08:44.406025"
     },
     {
-      "title": "UP TGT Exam 2026 Admit Card",
-      "url": "https://www.sarkariresult.com/2022/up-tgt-01-2022/",
-      "type": "Admit Card",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "09/06/2022",
-        "last_date": "13/07/2022",
-        "admit_card": "31/05/2026"
-      },
-      "fees": {
-        "general": 750,
-        "obc": 750,
-        "ews": 450
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 3539
-      },
-      "eligibility": [
-        "Graduate Teacher\"/>\n<meta name=\"robots\" content=\"follow, in",
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-03T05:22:13.738160"
-    },
-    {
-      "title": "UP Police Constable Exam City Details",
+      "title": "UP Police Constable Admit Card",
       "url": "https://www.sarkariresult.com/2026/up-police-constable-jan26/",
-      "type": "Recruitment",
+      "type": "Admit Card",
       "category": "Banking",
       "dates": {
         "application_begin": "31/12/2025",
@@ -173,7 +152,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:15.485551"
+      "scraped_at": "2026-06-08T05:08:46.108354"
     },
     {
       "title": "UPSSSC Lower PCS Apply Online",
@@ -199,10 +178,135 @@
         "total": 2516
       },
       "eligibility": [
-        "Graduate Level Online Form 2026 for 2516 Post</title>\n<link",
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Graduate Level Online Form 2026 for 2516 Post</title>\n<link"
+      ],
+      "scraped_at": "2026-06-08T05:08:47.141215"
+    },
+    {
+      "title": "Railway ALP 2026 Apply Online",
+      "url": "https://www.sarkariresult.com/railway/rrb-alp-cen-01-2026/",
+      "type": "Recruitment",
+      "category": "Railway",
+      "dates": {
+        "application_begin": "15/05/2026",
+        "last_date": "16/06/2026"
+      },
+      "fees": {
+        "obc": 500,
+        "sc_st": 250,
+        "ews": 500,
+        "female": 250
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 11127
+      },
+      "eligibility": [
+        "Diploma in Mechanical / Electrical /",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:17.146435"
+      "scraped_at": "2026-06-08T05:08:48.357976"
+    },
+    {
+      "title": "SSC Delhi Police Head Constable Ministerial 2025 Result, Cutoff",
+      "url": "https://www.sarkariresult.com/ssc/ssc-dp-head-constable-min-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "29/09/2025",
+        "last_date": "21/10/2025",
+        "admit_card": "05/02/2026"
+      },
+      "fees": {},
+      "age_limit": {
+        "min": 18,
+        "max": 25
+      },
+      "vacancies": {
+        "total": 509
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-08T05:08:49.227162"
+    },
+    {
+      "title": "NTA NCET 2026 Result / Score Card",
+      "url": "https://www.sarkariresult.com/2026/nta-ncet-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "12/02/2026",
+        "last_date": "11/03/2026",
+        "exam_date": "17/04/2026",
+        "admit_card": "13/04/2026"
+      },
+      "fees": {
+        "obc": 1000,
+        "ews": 1000
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 21417
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-08T05:08:50.932636"
+    },
+    {
+      "title": "Bihar ITI CAT 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/bihar-iti-cat/",
+      "type": "Result",
+      "category": "Bihar",
+      "dates": {
+        "application_begin": "16/03/2026",
+        "last_date": "26/04/2026",
+        "exam_date": "17/05/2026",
+        "admit_card": "11/05/2026"
+      },
+      "fees": {
+        "general": 750,
+        "ews": 750
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 21456
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-08T05:08:51.847663"
+    },
+    {
+      "title": "SSC Junior Hindi Translator JHT 2025 Paper II Result",
+      "url": "https://www.sarkariresult.com/ssc/ssc-jht-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "05/06/2025",
+        "last_date": "27/06/2025",
+        "exam_date": "12/08/2025",
+        "admit_card": "04/06/2026"
+      },
+      "fees": {
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 30,
+        "as_on": "26/06/2025"
+      },
+      "vacancies": {
+        "total": 437
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma OR Certificate Course in Tran"
+      ],
+      "scraped_at": "2026-06-08T05:08:53.467490"
     },
     {
       "title": "UP PGT 2022 Exam Result",
@@ -227,7 +331,7 @@
         "itial-scale=1\">\n<!-- Search Engin",
         "Graduate Teacher PGT Recruitment 2022\"/>\n<meta name=\"robots"
       ],
-      "scraped_at": "2026-06-03T05:22:18.694775"
+      "scraped_at": "2026-06-08T05:08:55.089093"
     },
     {
       "title": "UPSSSC Assistant Boring Technician Eligibility Result 2026",
@@ -255,7 +359,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:20.272194"
+      "scraped_at": "2026-06-08T05:08:56.004925"
     },
     {
       "title": "IIT JEE Advanced 2026 Result",
@@ -275,80 +379,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-03T05:22:21.058453"
-    },
-    {
-      "title": "Railway RRB Technician Grade III CEN 02/2025 Post Result 2026",
-      "url": "https://www.sarkariresult.com/railway/rrb-technician-cen-02-2025/",
-      "type": "Result",
-      "category": "Railway",
-      "dates": {
-        "application_begin": "28/06/2025",
-        "last_date": "09/08/2025"
-      },
-      "fees": {
-        "general": 500,
-        "obc": 500,
-        "sc_st": 250,
-        "ews": 500
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 6238
-      },
-      "eligibility": [
-        "B.Tech  / 3 Year Engineering Polytec",
-        "Diploma in Above Basic Stream"
-      ],
-      "scraped_at": "2026-06-03T05:22:22.030331"
-    },
-    {
-      "title": "Railway RRB Paramedical CEN 03/2025 Post Result 2026",
-      "url": "https://www.sarkariresult.com/railway/rrb-paramedical-03-2025/",
-      "type": "Result",
-      "category": "Railway",
-      "dates": {
-        "application_begin": "09/08/2025",
-        "last_date": "20/09/2025"
-      },
-      "fees": {
-        "general": 500,
-        "obc": 500,
-        "sc_st": 250,
-        "ews": 500
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 434
-      },
-      "eligibility": [
-        "Diploma / Degree in Related Post / Tr",
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-03T05:22:22.817641"
-    },
-    {
-      "title": "SSC Delhi Police Head Constable AWO / TPO Result 2026",
-      "url": "https://www.sarkariresult.com/ssc/ssc-delhi-police-hc-awo-tpo-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "24/09/2025",
-        "last_date": "16/10/2025",
-        "admit_card": "05/02/2026"
-      },
-      "fees": {},
-      "age_limit": {
-        "min": 18,
-        "max": 27
-      },
-      "vacancies": {
-        "total": 552
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-03T05:22:24.360950"
+      "scraped_at": "2026-06-08T05:08:56.887100"
     }
   ]
 }
