@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T05:11:07.396518",
+  "last_updated": "2026-06-19T05:30:35.441385",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
@@ -16,9 +16,9 @@
       },
       "eligibility": [
         "btech-jan2027/\" target=\"_blank\">Ind",
-        "Graduate Level CGL 2025 Tier II Marks 2026</a></li><li><a h"
+        "diploma-trainee-apr26/\" target=\"_blan"
       ],
-      "scraped_at": "2026-06-18T05:10:47.452397"
+      "scraped_at": "2026-06-19T05:30:18.101641"
     },
     {
       "title": "SSC CGL 2026 Apply Online",
@@ -39,10 +39,10 @@
         "total": 12256
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Graduate Level CGL Online Form 2026 for 12256 Post</title>"
+        "Graduate Level CGL Online Form 2026 for 12256 Post</title>",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:10:49.137008"
+      "scraped_at": "2026-06-19T05:30:18.890125"
     },
     {
       "title": "Allahabad High Court RO ARO CA Apply Online",
@@ -62,10 +62,10 @@
         "total": 543
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Diploma in Computer Science <b>OR</b>"
+        "Diploma in Computer Science <b>OR</b>",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:10:50.742034"
+      "scraped_at": "2026-06-19T05:30:20.486028"
     },
     {
       "title": "RPSC RAS 2026 Apply Online",
@@ -88,7 +88,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:10:52.039212"
+      "scraped_at": "2026-06-19T05:30:22.068810"
     },
     {
       "title": "UPSSSC Excise Constable Apply Online",
@@ -116,34 +116,26 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:10:53.643448"
+      "scraped_at": "2026-06-19T05:30:22.829035"
     },
     {
-      "title": "UP Police Constable Admit Card",
-      "url": "https://www.sarkariresult.com/2026/up-police-constable-jan26/",
-      "type": "Admit Card",
-      "category": "Banking",
+      "title": "UPSRLM Various Post Apply Online",
+      "url": "https://www.sarkariresult.com/2026/upsrlm-outsourcing-jobs-june26/",
+      "type": "Recruitment",
+      "category": "Central Govt",
       "dates": {
-        "application_begin": "31/12/2025",
-        "last_date": "30/01/2026"
+        "application_begin": "15/06/2026"
       },
-      "fees": {
-        "general": 500,
-        "obc": 500,
-        "sc_st": 400,
-        "ews": 500
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 25
-      },
+      "fees": {},
+      "age_limit": {},
       "vacancies": {
-        "total": 32679
+        "total": 3447
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
+        "Diploma in Data Analytics / MIS / IT",
+        "B.Tech IT / CSE / Data Science / Dat"
       ],
-      "scraped_at": "2026-06-18T05:10:55.242988"
+      "scraped_at": "2026-06-19T05:30:24.413828"
     },
     {
       "title": "UPSSSC Lower PCS Apply Online",
@@ -152,7 +144,7 @@
       "category": "SSC",
       "dates": {
         "application_begin": "29/05/2026",
-        "last_date": "18/06/2026"
+        "last_date": "25/06/2026"
       },
       "fees": {
         "general": 25,
@@ -166,13 +158,13 @@
         "as_on": "01/07/2026"
       },
       "vacancies": {
-        "total": 2516
+        "total": 2587
       },
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin",
-        "Graduate Level Online Form 2026 for 2516 Post</title>\n<link"
+        "Graduate Level Online Form 2026 for 2587 Post</title>\n<link"
       ],
-      "scraped_at": "2026-06-18T05:10:56.310168"
+      "scraped_at": "2026-06-19T05:30:25.971204"
     },
     {
       "title": "Railway ALP 2026 Apply Online",
@@ -194,10 +186,60 @@
         "total": 11127
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma in Mechanical / Electrical /",
         "B.Tech Degree in Mechanical / Electr"
       ],
-      "scraped_at": "2026-06-18T05:10:57.796938"
+      "scraped_at": "2026-06-19T05:30:27.547525"
+    },
+    {
+      "title": "SSC Stenographer 2025 Final Result",
+      "url": "https://www.sarkariresult.com/ssc/ssc-stenographer-2025/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "06/06/2025",
+        "last_date": "27/06/2025"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "max": 30,
+        "as_on": "01/08/2025"
+      },
+      "vacancies": {
+        "total": 261
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-19T05:30:29.199053"
+    },
+    {
+      "title": "MP ESB PAT Result 2026",
+      "url": "https://www.sarkariresult.com/mp/mp-pat-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "24/03/2026",
+        "last_date": "12/04/2026",
+        "exam_date": "08/05/2026",
+        "admit_card": "01/05/2026"
+      },
+      "fees": {
+        "sc_st": 310
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 18827
+      },
+      "eligibility": [
+        "B.Tech Agriculture</p>\n</td>\n<td col",
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-19T05:30:30.135753"
     },
     {
       "title": "SSC Combined Graduate Level CGL 2025 Tier II Marks 2026",
@@ -221,10 +263,10 @@
         "total": 14582
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Graduate Level CGL 2025 Tier II Answer Key 2026 | Visit Sar"
+        "Graduate Level CGL 2025 Tier II Answer Key 2026 | Visit Sar",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:10:58.768608"
+      "scraped_at": "2026-06-19T05:30:31.062410"
     },
     {
       "title": "UPSC Civil Services IAS IFS Result 2026 With Name Wise",
@@ -249,7 +291,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:11:00.324661"
+      "scraped_at": "2026-06-19T05:30:32.617495"
     },
     {
       "title": "Delhi DSSSB Staff Car Driver 813/24 &amp; PGT Sanskrit Male 07/25 Result 2026",
@@ -265,7 +307,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:11:01.348647"
+      "scraped_at": "2026-06-19T05:30:33.417451"
     },
     {
       "title": "SSC Delhi Police Head Constable AWO / TPO Result 2026",
@@ -288,7 +330,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:11:02.142973"
+      "scraped_at": "2026-06-19T05:30:34.172125"
     },
     {
       "title": "Indian Airforce Group Y Medical Assistant Result 2026",
@@ -310,52 +352,10 @@
         "total": 162
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Diploma/ B"
-      ],
-      "scraped_at": "2026-06-18T05:11:03.812096"
-    },
-    {
-      "title": "Indian Airforce Agniveervayu Intake 01/2027 Result",
-      "url": "https://www.sarkariresult.com/force/airforce-agniveer-01-2027/",
-      "type": "Result",
-      "category": "Defence",
-      "dates": {
-        "application_begin": "12/01/2026",
-        "admit_card": "03/04/2026"
-      },
-      "fees": {
-        "general": 550,
-        "obc": 550,
-        "ews": 550
-      },
-      "age_limit": {
-        "max": 22
-      },
-      "vacancies": {
-        "total": 18532
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Diploma in Engineering (Mechanical/ E"
-      ],
-      "scraped_at": "2026-06-18T05:11:05.404727"
-    },
-    {
-      "title": "MPBSE MP Board 10th and 12th Second Exam Result 2026",
-      "url": "https://www.sarkariresult.com/2026/mpbse-mp-result-2026/",
-      "type": "Result",
-      "category": "Central Govt",
-      "dates": {},
-      "fees": {},
-      "age_limit": {},
-      "vacancies": {
-        "total": 21564
-      },
-      "eligibility": [
+        "Diploma/ B",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-18T05:11:06.896324"
+      "scraped_at": "2026-06-19T05:30:34.941169"
     }
   ]
 }
