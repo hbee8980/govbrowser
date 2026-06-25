@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T04:44:05.435587",
-  "total_jobs": 15,
+  "last_updated": "2026-06-25T04:39:37.815811",
+  "total_jobs": 14,
   "source": "sarkariresult.com",
   "jobs": [
     {
@@ -12,13 +12,13 @@
       "fees": {},
       "age_limit": {},
       "vacancies": {
-        "total": 1013
+        "total": 1731
       },
       "eligibility": [
-        "diploma-trainee-apr26/\" target=\"_blan",
-        "Graduate Level CGL 2025 Tier II Marks 2026</a></li><li><a h"
+        "Graduate Level CGL 2025 Tier II Marks 2026</a></li><li><a h",
+        "btech-jan2027/\" target=\"_blank\">Nav"
       ],
-      "scraped_at": "2026-06-24T04:43:48.311993"
+      "scraped_at": "2026-06-25T04:38:44.568937"
     },
     {
       "title": "NTA CUET UG Result 2026",
@@ -43,7 +43,7 @@
         "Graduate Admissions Test 2026 Entrance Exam, Answerkey, Res",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:50.114576"
+      "scraped_at": "2026-06-25T04:38:46.135071"
     },
     {
       "title": "Allahabad High Court RO ARO CA Apply Online",
@@ -63,10 +63,10 @@
         "total": 543
       },
       "eligibility": [
-        "Diploma in Computer Science <b>OR</b>",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "itial-scale=1\">\n<!-- Search Engin",
+        "Diploma in Computer Science <b>OR</b>"
       ],
-      "scraped_at": "2026-06-24T04:43:51.638158"
+      "scraped_at": "2026-06-25T04:38:47.884125"
     },
     {
       "title": "RPSC RAS 2026 Apply Online",
@@ -89,7 +89,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:52.488255"
+      "scraped_at": "2026-06-25T04:38:48.724929"
     },
     {
       "title": "UPTET 2026 Exam City Details",
@@ -115,7 +115,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:54.298673"
+      "scraped_at": "2026-06-25T04:38:50.493346"
     },
     {
       "title": "UPSSSC Excise Constable Apply Online",
@@ -143,7 +143,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:55.131885"
+      "scraped_at": "2026-06-25T04:38:51.326933"
     },
     {
       "title": "UPSRLM Various Post Apply Online",
@@ -159,10 +159,10 @@
         "total": 3447
       },
       "eligibility": [
-        "Diploma in Data Analytics / MIS / IT",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "B.Tech IT / CSE / Data Science / Dat",
+        "Diploma in Data Analytics / MIS / IT"
       ],
-      "scraped_at": "2026-06-24T04:43:55.965708"
+      "scraped_at": "2026-06-25T04:38:53.073832"
     },
     {
       "title": "UPSSSC Lower PCS Apply Online",
@@ -191,7 +191,90 @@
         "Graduate Level) Sarkari Result, Download Notification and M",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:57.004692"
+      "scraped_at": "2026-06-25T04:38:53.914135"
+    },
+    {
+      "title": "Rajasthan State Open School RSOS Class 10th and 12th Result 2026",
+      "url": "https://www.sarkariresult.com/2026/rsos-results-june26/",
+      "type": "Result",
+      "category": "Rajasthan",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {
+        "total": 24708
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-25T04:38:55.672592"
+    },
+    {
+      "title": "Bihar BCECE 2026 Result / Rank Card",
+      "url": "https://tinyurl.com/5xzkh7y5",
+      "type": "Result",
+      "category": "Bihar",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [
+        "itional//EN\" \"http://www"
+      ],
+      "scraped_at": "2026-06-25T04:39:30.237318"
+    },
+    {
+      "title": "SSC Junior Engineer JE Final Vacancy 2025 for 1731 Post",
+      "url": "https://www.sarkariresult.com/ssc/ssc-junior-engineer-je-2025/",
+      "type": "Recruitment",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "30/06/2025",
+        "last_date": "22/07/2025",
+        "exam_date": "07/04/2026"
+      },
+      "fees": {
+        "general": 100,
+        "obc": 100,
+        "ews": 100
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 32
+      },
+      "vacancies": {
+        "total": 1731
+      },
+      "eligibility": [
+        "B.Tech Degree in Related Trade <b>OR",
+        "Diploma in Related Trade with 2 Year"
+      ],
+      "scraped_at": "2026-06-25T04:39:32.529435"
+    },
+    {
+      "title": "RSSB Agriculture Supervisor Merit wise Result Cut off Marks 2026",
+      "url": "https://www.sarkariresult.com/rpsc/rssb-agriculture-03-2026/",
+      "type": "Result",
+      "category": "Rajasthan",
+      "dates": {
+        "application_begin": "13/01/2026",
+        "last_date": "11/02/2026",
+        "exam_date": "18/04/2026",
+        "admit_card": "13/04/2026"
+      },
+      "fees": {
+        "general": 600,
+        "obc": 600,
+        "sc_st": 400
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 1100
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-25T04:39:34.693723"
     },
     {
       "title": "UPPSC Staff Nurse 2023 Final Result",
@@ -218,7 +301,7 @@
         "Diploma in General Nursing and Midwif",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:57.850046"
+      "scraped_at": "2026-06-25T04:39:35.567447"
     },
     {
       "title": "RPSC Sub Inspector SI 2025 Marks",
@@ -241,134 +324,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-24T04:43:58.697108"
-    },
-    {
-      "title": "UPSSSC Technical Assistant Group C 2024 Final Result 2026",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-technical-asst-07-2024/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "01/05/2024",
-        "last_date": "31/05/2024",
-        "exam_date": "13/07/2025"
-      },
-      "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
-      },
-      "age_limit": {
-        "min": 21,
-        "max": 40,
-        "as_on": "01/07/2024"
-      },
-      "vacancies": {
-        "total": 3446
-      },
-      "eligibility": [
-        "B.Tech in Agriculture Engineering",
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-24T04:43:59.535476"
-    },
-    {
-      "title": "UP Polytechnic JEECUP 2026 Counselling Schedule",
-      "url": "https://www.sarkariresult.com/2026/jeecup-2026/",
-      "type": "Recruitment",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "15/01/2026",
-        "last_date": "10/05/2026",
-        "admit_card": "27/05/2026"
-      },
-      "fees": {
-        "obc": 300,
-        "sc_st": 200,
-        "ews": 300
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 21587
-      },
-      "eligibility": [
-        "B.Tech Degree in Any Stream with 2 Y",
-        "Diploma Admission 2026 </span><br />"
-      ],
-      "scraped_at": "2026-06-24T04:44:01.297191"
-    },
-    {
-      "title": "RRVUNL Technician, Operator, Plant Attendant Final Result 2026",
-      "url": "https://www.sarkariresult.com/rpsc/rrvunl-technician-feb25/",
-      "type": "Result",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "21/02/2025",
-        "last_date": "20/03/2025",
-        "exam_date": "23/02/2026",
-        "admit_card": "12/02/2026"
-      },
-      "fees": {
-        "general": 1000,
-        "ews": 500
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 2163
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-24T04:44:02.371045"
-    },
-    {
-      "title": "MPPSC Food Safety Officer Final Result with Marks 2026",
-      "url": "https://www.sarkariresult.com/mp/mppsc-fso-advt-57-2024/",
-      "type": "Result",
-      "category": "MP",
-      "dates": {
-        "application_begin": "28/03/2025",
-        "last_date": "27/04/2025",
-        "exam_date": "21/01/2026"
-      },
-      "fees": {
-        "general": 500
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 120
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-24T04:44:04.112208"
-    },
-    {
-      "title": "RBI Office Attendant Result 2026",
-      "url": "https://www.sarkariresult.com/bank/rbi-office-attendant-jan26/",
-      "type": "Result",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "15/01/2026",
-        "last_date": "04/02/2026",
-        "exam_date": "28/02/2026",
-        "admit_card": "23/02/2026"
-      },
-      "fees": {
-        "general": 450,
-        "obc": 450,
-        "sc_st": 50,
-        "ews": 450
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 572
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-24T04:44:04.935353"
+      "scraped_at": "2026-06-25T04:39:37.315599"
     }
   ]
 }
