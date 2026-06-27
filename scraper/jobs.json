@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T04:47:21.868906",
+  "last_updated": "2026-06-27T04:30:26.436180",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
@@ -15,10 +15,10 @@
         "total": 1731
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "diploma-trainee-apr26/\" target=\"_blan"
+        "btech-jan2027/\" target=\"_blank\">Nav",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:02.484164"
+      "scraped_at": "2026-06-27T04:30:07.258651"
     },
     {
       "title": "NTA CUET UG Result 2026",
@@ -40,33 +40,29 @@
         "total": 21444
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "Graduate Admissions Test 2026 Entrance Exam, Answerkey, Res"
-      ],
-      "scraped_at": "2026-06-26T04:47:03.600813"
-    },
-    {
-      "title": "Allahabad High Court RO ARO CA Apply Online",
-      "url": "https://www.sarkariresult.com/2026/ahc-ro-aro-ca-june2026/",
-      "type": "Recruitment",
-      "category": "Central Govt",
-      "dates": {
-        "application_begin": "01/06/2026",
-        "last_date": "21/06/2026"
-      },
-      "fees": {},
-      "age_limit": {
-        "min": 21,
-        "max": 35
-      },
-      "vacancies": {
-        "total": 543
-      },
-      "eligibility": [
-        "Diploma in Computer Science <b>OR</b>",
+        "Graduate Admissions Test 2026 Entrance Exam, Answerkey, Res",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:04.903636"
+      "scraped_at": "2026-06-27T04:30:08.896566"
+    },
+    {
+      "title": "HSSC Group D CET Apply Online",
+      "url": "https://www.sarkariresult.com/2026/hssc-group-d-05-2026/",
+      "type": "Recruitment",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "19/06/2026",
+        "last_date": "06/07/2026"
+      },
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {
+        "total": 24136
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-27T04:30:09.686183"
     },
     {
       "title": "RPSC RAS 2026 Apply Online",
@@ -89,7 +85,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:06.587706"
+      "scraped_at": "2026-06-27T04:30:11.394390"
     },
     {
       "title": "UPTET 2026 Exam City Details",
@@ -115,35 +111,26 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:07.590393"
+      "scraped_at": "2026-06-27T04:30:12.990858"
     },
     {
-      "title": "UPSSSC Excise Constable Apply Online",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-excise-constable-08-exam2026/",
+      "title": "RSSB 10+2 CET Apply Online",
+      "url": "https://www.sarkariresult.com/2026/rssb-cet-june26/",
       "type": "Recruitment",
-      "category": "SSC",
+      "category": "Rajasthan",
       "dates": {
-        "application_begin": "04/06/2026",
-        "last_date": "24/06/2026"
+        "application_begin": "24/06/2026",
+        "last_date": "23/07/2026"
       },
-      "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
-      },
-      "age_limit": {
-        "min": 18,
-        "max": 40,
-        "as_on": "01/07/2026"
-      },
+      "fees": {},
+      "age_limit": {},
       "vacancies": {
-        "total": 820
+        "total": 24654
       },
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:08.500972"
+      "scraped_at": "2026-06-27T04:30:14.517238"
     },
     {
       "title": "UPSRLM Various Post Apply Online",
@@ -159,39 +146,73 @@
         "total": 3447
       },
       "eligibility": [
-        "B.Tech IT / CSE / Data Science / Dat",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "Diploma in Data Analytics / MIS / IT",
+        "B.Tech IT / CSE / Data Science / Dat"
       ],
-      "scraped_at": "2026-06-26T04:47:10.252527"
+      "scraped_at": "2026-06-27T04:30:16.002790"
     },
     {
-      "title": "UPSSSC Lower PCS Apply Online",
-      "url": "https://www.sarkariresult.com/upsssc/upsssc-lower-07-exam-2026/",
+      "title": "UPPSC Pre 2026 Apply Online",
+      "url": "https://www.sarkariresult.com/2026/uppsc-2026-pre-exam/",
       "type": "Recruitment",
-      "category": "SSC",
+      "category": "UP",
       "dates": {
-        "application_begin": "29/05/2026",
-        "last_date": "25/06/2026"
+        "application_begin": "25/06/2026",
+        "last_date": "27/07/2026"
       },
       "fees": {
-        "general": 25,
-        "obc": 25,
-        "sc_st": 25,
-        "ews": 25
+        "general": 125,
+        "obc": 125,
+        "sc_st": 65,
+        "ews": 125
       },
-      "age_limit": {
-        "min": 18,
-        "max": 40,
-        "as_on": "01/07/2026"
-      },
+      "age_limit": {},
       "vacancies": {
-        "total": 2587
+        "total": 500
       },
       "eligibility": [
-        "Graduate Level) Sarkari Result, Download Notification and M",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:11.956119"
+      "scraped_at": "2026-06-27T04:30:17.571033"
+    },
+    {
+      "title": "UPPCB AEE and ASO Result 2026",
+      "url": "https://www.sarkariresult.com/2026/uppcb-aee-aso-mar26/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "28/02/2026",
+        "last_date": "28/03/2026",
+        "exam_date": "27/04/2026",
+        "admit_card": "15/04/2026"
+      },
+      "fees": {
+        "general": 2000,
+        "obc": 2000,
+        "sc_st": 1000,
+        "ews": 2000
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 40
+      },
+      "eligibility": [
+        "B.Tech in Chemical Engineering / Che",
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-27T04:30:18.329898"
+    },
+    {
+      "title": "Jharkhand JSSC JTMACCE 2026 Result",
+      "url": "https://tinyurl.com/482kcwyd",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {},
+      "fees": {},
+      "age_limit": {},
+      "vacancies": {},
+      "eligibility": [],
+      "scraped_at": "2026-06-27T04:30:19.287268"
     },
     {
       "title": "Bihar Police BPSSC Havildar Clerk Home Guard Result 2026",
@@ -217,7 +238,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:12.843731"
+      "scraped_at": "2026-06-27T04:30:20.522966"
     },
     {
       "title": "UPPSC Technical Education Teaching 2021 Final Result",
@@ -240,10 +261,10 @@
         "total": 1370
       },
       "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin",
-        "B.Tech Engineering Degree in Related"
+        "B.Tech Engineering Degree in Related",
+        "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:14.477125"
+      "scraped_at": "2026-06-27T04:30:22.115156"
     },
     {
       "title": "Reserve Bank RBI Officer Grade B Result 2026",
@@ -269,7 +290,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:16.222779"
+      "scraped_at": "2026-06-27T04:30:22.888539"
     },
     {
       "title": "SSC Delhi Police Constable Driver Additional Result 2026",
@@ -296,7 +317,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:17.925287"
+      "scraped_at": "2026-06-27T04:30:24.365540"
     },
     {
       "title": "SSC Delhi Police Head Constable Ministerial 2025 Additional Result",
@@ -319,54 +340,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-26T04:47:18.806607"
-    },
-    {
-      "title": "SSC Delhi Police HC AWO / TPO Additional Result 2026",
-      "url": "https://www.sarkariresult.com/ssc/ssc-delhi-police-hc-awo-tpo-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "24/09/2025",
-        "last_date": "16/10/2025",
-        "admit_card": "05/02/2026"
-      },
-      "fees": {},
-      "age_limit": {
-        "min": 18,
-        "max": 27
-      },
-      "vacancies": {
-        "total": 552
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-26T04:47:19.679882"
-    },
-    {
-      "title": "UPSC Combined Medical Services CMS 2025 Reserve List",
-      "url": "https://www.sarkariresult.com/upsc/upsc-cms-2025/",
-      "type": "Recruitment",
-      "category": "UPSC",
-      "dates": {
-        "application_begin": "19/02/2025",
-        "last_date": "11/03/2025",
-        "exam_date": "20/07/2025"
-      },
-      "fees": {
-        "general": 200,
-        "obc": 200,
-        "ews": 200
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 705
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-26T04:47:21.368707"
+      "scraped_at": "2026-06-27T04:30:25.936021"
     }
   ]
 }
