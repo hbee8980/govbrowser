@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:30:26.436180",
+  "last_updated": "2026-06-29T05:07:37.174077",
   "total_jobs": 15,
   "source": "sarkariresult.com",
   "jobs": [
@@ -15,35 +15,36 @@
         "total": 1731
       },
       "eligibility": [
-        "btech-jan2027/\" target=\"_blank\">Nav",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "Graduate Level CGL 2025 Tier II Final Answer Key</a></li><l",
+        "diploma-trainee-apr26/\" target=\"_blan"
       ],
-      "scraped_at": "2026-06-27T04:30:07.258651"
+      "scraped_at": "2026-06-29T05:07:18.253053"
     },
     {
-      "title": "NTA CUET UG Result 2026",
-      "url": "https://www.sarkariresult.com/2026/nta-cuet-ug-2026/",
-      "type": "Result",
-      "category": "Central Govt",
+      "title": "RRB NTPC CEN 07/2025 Answer Key",
+      "url": "https://www.sarkariresult.com/railway/rrb-ntpc-ug-07-2025/",
+      "type": "Answer Key",
+      "category": "Railway",
       "dates": {
-        "application_begin": "03/01/2026",
-        "last_date": "07/02/2026",
-        "admit_card": "02/06/2026"
+        "application_begin": "28/10/2025",
+        "last_date": "06/12/2025"
       },
       "fees": {
-        "obc": 900,
-        "sc_st": 350,
-        "ews": 900
+        "general": 500,
+        "obc": 500,
+        "sc_st": 250,
+        "ews": 500,
+        "female": 250
       },
       "age_limit": {},
       "vacancies": {
-        "total": 21444
+        "total": 3050
       },
       "eligibility": [
-        "Graduate Admissions Test 2026 Entrance Exam, Answerkey, Res",
+        "Graduate UG CEN 07/2025, Sarkari Result\"/>\n<meta name=\"robo",
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:08.896566"
+      "scraped_at": "2026-06-29T05:07:19.760443"
     },
     {
       "title": "HSSC Group D CET Apply Online",
@@ -62,7 +63,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:09.686183"
+      "scraped_at": "2026-06-29T05:07:20.611747"
     },
     {
       "title": "RPSC RAS 2026 Apply Online",
@@ -85,7 +86,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:11.394390"
+      "scraped_at": "2026-06-29T05:07:22.178773"
     },
     {
       "title": "UPTET 2026 Exam City Details",
@@ -111,7 +112,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:12.990858"
+      "scraped_at": "2026-06-29T05:07:23.531642"
     },
     {
       "title": "RSSB 10+2 CET Apply Online",
@@ -130,7 +131,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:14.517238"
+      "scraped_at": "2026-06-29T05:07:24.363714"
     },
     {
       "title": "UPSRLM Various Post Apply Online",
@@ -146,10 +147,10 @@
         "total": 3447
       },
       "eligibility": [
-        "Diploma in Data Analytics / MIS / IT",
-        "B.Tech IT / CSE / Data Science / Dat"
+        "B.Tech IT / CSE / Data Science / Dat",
+        "Diploma in Data Analytics / MIS / IT"
       ],
-      "scraped_at": "2026-06-27T04:30:16.002790"
+      "scraped_at": "2026-06-29T05:07:25.852899"
     },
     {
       "title": "UPPSC Pre 2026 Apply Online",
@@ -173,7 +174,118 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:17.571033"
+      "scraped_at": "2026-06-29T05:07:26.968931"
+    },
+    {
+      "title": "UP Police Home Guard Result",
+      "url": "https://www.sarkariresult.com/2025/up-police-home-guard-02-2025/",
+      "type": "Result",
+      "category": "Banking",
+      "dates": {
+        "application_begin": "17/11/2025",
+        "last_date": "17/12/2025"
+      },
+      "fees": {
+        "general": 400,
+        "obc": 400,
+        "sc_st": 300,
+        "ews": 400
+      },
+      "age_limit": {
+        "min": 18,
+        "max": 30
+      },
+      "vacancies": {
+        "total": 41424
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-29T05:07:28.505971"
+    },
+    {
+      "title": "ABVMU UP CAHET 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/up-cahet-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "02/05/2026",
+        "last_date": "14/06/2026",
+        "exam_date": "21/06/2026",
+        "admit_card": "15/06/2026"
+      },
+      "fees": {
+        "general": 750,
+        "obc": 750,
+        "sc_st": 500,
+        "ews": 750
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 21517
+      },
+      "eligibility": [
+        "Graduate</p>\n<p align=\"center\">\n</td>\n<td style=\"width: 74",
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-29T05:07:30.040415"
+    },
+    {
+      "title": "UPSSSC Assistant Statistical Officer Eligibility Result 2026",
+      "url": "https://www.sarkariresult.com/upsssc/upsssc-aso-05-exam-2026/",
+      "type": "Result",
+      "category": "SSC",
+      "dates": {
+        "application_begin": "21/04/2026",
+        "last_date": "15/05/2026",
+        "exam_date": "27/06/2026",
+        "admit_card": "27/06/2026"
+      },
+      "fees": {
+        "general": 25,
+        "obc": 25,
+        "sc_st": 25,
+        "ews": 25
+      },
+      "age_limit": {
+        "min": 21,
+        "max": 40,
+        "as_on": "01/07/2026"
+      },
+      "vacancies": {
+        "total": 1565
+      },
+      "eligibility": [
+        "Diploma",
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-29T05:07:31.612983"
+    },
+    {
+      "title": "Allahabad University PGAT 2026 Result",
+      "url": "https://www.sarkariresult.com/2026/au-pgat-2026/",
+      "type": "Result",
+      "category": "Central Govt",
+      "dates": {
+        "application_begin": "05/05/2026",
+        "last_date": "28/05/2026",
+        "exam_date": "11/06/2026",
+        "admit_card": "11/06/2026"
+      },
+      "fees": {
+        "general": 1000,
+        "obc": 1000,
+        "sc_st": 500,
+        "ews": 1000
+      },
+      "age_limit": {},
+      "vacancies": {
+        "total": 21305
+      },
+      "eligibility": [
+        "itial-scale=1\">\n<!-- Search Engin"
+      ],
+      "scraped_at": "2026-06-29T05:07:33.206993"
     },
     {
       "title": "UPPCB AEE and ASO Result 2026",
@@ -197,10 +309,10 @@
         "total": 40
       },
       "eligibility": [
-        "B.Tech in Chemical Engineering / Che",
-        "itial-scale=1\">\n<!-- Search Engin"
+        "itial-scale=1\">\n<!-- Search Engin",
+        "B.Tech in Chemical Engineering / Che"
       ],
-      "scraped_at": "2026-06-27T04:30:18.329898"
+      "scraped_at": "2026-06-29T05:07:34.001153"
     },
     {
       "title": "Jharkhand JSSC JTMACCE 2026 Result",
@@ -212,7 +324,7 @@
       "age_limit": {},
       "vacancies": {},
       "eligibility": [],
-      "scraped_at": "2026-06-27T04:30:19.287268"
+      "scraped_at": "2026-06-29T05:07:35.178861"
     },
     {
       "title": "Bihar Police BPSSC Havildar Clerk Home Guard Result 2026",
@@ -238,109 +350,7 @@
       "eligibility": [
         "itial-scale=1\">\n<!-- Search Engin"
       ],
-      "scraped_at": "2026-06-27T04:30:20.522966"
-    },
-    {
-      "title": "UPPSC Technical Education Teaching 2021 Final Result",
-      "url": "https://www.sarkariresult.com/2021/uppsc-technical-edu-service-sep21/",
-      "type": "Result",
-      "category": "UP",
-      "dates": {
-        "application_begin": "15/09/2021",
-        "last_date": "12/10/2021",
-        "exam_date": "22/12/2021",
-        "admit_card": "28/07/2023"
-      },
-      "fees": {
-        "general": 225,
-        "obc": 225,
-        "sc_st": 105
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 1370
-      },
-      "eligibility": [
-        "B.Tech Engineering Degree in Related",
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-27T04:30:22.115156"
-    },
-    {
-      "title": "Reserve Bank RBI Officer Grade B Result 2026",
-      "url": "https://www.sarkariresult.com/bank/rbi-grade-b-apr26/",
-      "type": "Result",
-      "category": "Banking",
-      "dates": {
-        "application_begin": "29/04/2026",
-        "last_date": "20/05/2026",
-        "exam_date": "13/06/2026",
-        "admit_card": "05/06/2026"
-      },
-      "fees": {
-        "general": 850,
-        "obc": 850,
-        "sc_st": 100,
-        "ews": 850
-      },
-      "age_limit": {},
-      "vacancies": {
-        "total": 60
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-27T04:30:22.888539"
-    },
-    {
-      "title": "SSC Delhi Police Constable Driver Additional Result 2026",
-      "url": "https://www.sarkariresult.com/ssc/ssc-dp-constable-driver-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "24/09/2025",
-        "last_date": "16/10/2025",
-        "admit_card": "14/12/2025"
-      },
-      "fees": {
-        "general": 100,
-        "obc": 100,
-        "ews": 100
-      },
-      "age_limit": {
-        "min": 21,
-        "max": 30
-      },
-      "vacancies": {
-        "total": 737
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-27T04:30:24.365540"
-    },
-    {
-      "title": "SSC Delhi Police Head Constable Ministerial 2025 Additional Result",
-      "url": "https://www.sarkariresult.com/ssc/ssc-dp-head-constable-min-2025/",
-      "type": "Result",
-      "category": "SSC",
-      "dates": {
-        "application_begin": "29/09/2025",
-        "last_date": "21/10/2025",
-        "admit_card": "05/02/2026"
-      },
-      "fees": {},
-      "age_limit": {
-        "min": 18,
-        "max": 25
-      },
-      "vacancies": {
-        "total": 509
-      },
-      "eligibility": [
-        "itial-scale=1\">\n<!-- Search Engin"
-      ],
-      "scraped_at": "2026-06-27T04:30:25.936021"
+      "scraped_at": "2026-06-29T05:07:36.673874"
     }
   ]
 }
